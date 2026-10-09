@@ -1,0 +1,311 @@
+{
+  "checked": "2026-10-09 ~22:25 JST (Fri, weekday timetable; Sat 10.10 = 土休日 timetable)",
+  "origin": "JR East Hotel Mets Premier Akihabara - JR Akihabara (Electric Town side) / Tokyo Metro Hibiya line Akihabara (H-16, ~3-5 min walk)",
+  "routes": [
+    {
+      "to": "Roppongi",
+      "line": "Tokyo Metro Hibiya line (Naka-meguro bound), direct",
+      "station_from": "Akihabara (Hibiya line)",
+      "station_to": "Roppongi",
+      "minutes": 23,
+      "fare_yen": 209,
+      "notes": "No transfer, 12 stops, every ~5 min in the evening. Alternative: JR Keihin-Tohoku to Hamamatsucho + walk to Daimon + Oedo line, ~30 min, ¥377.",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Kamiyacho (Azabudai Hills)",
+      "line": "Tokyo Metro Hibiya line, direct",
+      "station_from": "Akihabara (Hibiya line)",
+      "station_to": "Kamiyacho",
+      "minutes": 20,
+      "fare_yen": 209,
+      "notes": "Azabudai Hills is directly connected to Kamiyacho station.",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Hiroo (Nishi-Azabu east side / Hiroo)",
+      "line": "Tokyo Metro Hibiya line, direct",
+      "station_from": "Akihabara (Hibiya line)",
+      "station_to": "Hiroo",
+      "minutes": 26,
+      "fare_yen": 209,
+      "notes": "Nishi-Azabu has no station: use Roppongi (~10-12 min walk) or Hiroo (~10 min walk).",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Azabu-Juban",
+      "line": "JR Chuo-Sobu local to Yotsuya + Tokyo Metro Namboku line",
+      "station_from": "Akihabara (JR)",
+      "station_to": "Azabu-Juban",
+      "minutes": 28,
+      "fare_yen": 377,
+      "notes": "Alt: JR Keihin-Tohoku to Hamamatsucho, walk 7 min to Daimon, Toei Oedo line, same ~28 min / ¥377. Or Hibiya line to Roppongi and walk ~12-15 min.",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Roppongi-itchome (Izumi Garden / Ark Hills)",
+      "line": "JR Chuo-Sobu local to Yotsuya + Namboku line",
+      "station_from": "Akihabara (JR)",
+      "station_to": "Roppongi-itchome",
+      "minutes": 26,
+      "fare_yen": 377,
+      "notes": "",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Ginza",
+      "line": "Tokyo Metro Hibiya line, direct",
+      "station_from": "Akihabara (Hibiya line)",
+      "station_to": "Ginza",
+      "minutes": 12,
+      "fare_yen": 178,
+      "notes": "7 stops, no transfer.",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Toranomon Hills",
+      "line": "Tokyo Metro Hibiya line, direct",
+      "station_from": "Akihabara (Hibiya line)",
+      "station_to": "Toranomon Hills",
+      "minutes": 18,
+      "fare_yen": 178,
+      "notes": "",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Shibuya",
+      "line": "JR Yamanote line (outer loop via Tokyo/Shinagawa), direct",
+      "station_from": "Akihabara (JR)",
+      "station_to": "Shibuya",
+      "minutes": 30,
+      "fare_yen": 253,
+      "notes": "Alt: JR Sobu local to Yoyogi + Yamanote, ~29 min, ¥253. Alt: walk ~5 min to Suehirocho, Tokyo Metro Ginza line direct to Shibuya ~30 min (fare approx ¥209-252, not checked).",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "to": "Shinjuku",
+      "line": "JR Chuo-Sobu local (Mitaka bound), direct; faster: Sobu local 1 stop to Ochanomizu + Chuo Rapid",
+      "station_from": "Akihabara (JR)",
+      "station_to": "Shinjuku",
+      "minutes": 20,
+      "fare_yen": 209,
+      "notes": "Direct Sobu local ~20 min; with Chuo Rapid transfer at Ochanomizu ~16 min. Same fare.",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    }
+  ],
+  "last_trains": [
+    {
+      "from": "Roppongi",
+      "dep": "23:55",
+      "line": "Tokyo Metro Hibiya line (Takenotsuka bound), direct - LAST DIRECT",
+      "arr_akihabara": "00:18",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST (https://transit.yahoo.co.jp/search/result, last-train search)"
+    },
+    {
+      "from": "Roppongi",
+      "dep": "00:11",
+      "line": "Toei Oedo line to Daimon, walk 7 min to Hamamatsucho, JR Yamanote 00:32 - absolute last, risky (walk transfer)",
+      "arr_akihabara": "00:43",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Ginza",
+      "dep": "00:06",
+      "line": "Tokyo Metro Hibiya line (Takenotsuka bound), direct - LAST DIRECT",
+      "arr_akihabara": "00:18",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Ginza",
+      "dep": "00:18",
+      "line": "Tokyo Metro Ginza line (Ueno bound) to Ueno, JR Yamanote 00:39 (or to Mitsukoshimae, walk to Kanda, JR 00:41)",
+      "arr_akihabara": "00:42",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Shibuya",
+      "dep": "00:13",
+      "line": "JR Yamanote inner loop (via Shinagawa/Tokyo), direct - LAST",
+      "arr_akihabara": "00:43",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Shibuya",
+      "dep": "00:00",
+      "line": "JR Yamanote to Yoyogi + JR Sobu local (faster, earlier option)",
+      "arr_akihabara": "00:27",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Shinjuku",
+      "dep": "00:15",
+      "line": "JR Chuo Rapid (Tokyo bound) to Ochanomizu, transfer to JR Sobu local 00:25 - LAST",
+      "arr_akihabara": "00:27",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Shinjuku",
+      "dep": "00:12",
+      "line": "JR Yamanote outer loop via Ikebukuro/Ueno, direct (no transfer)",
+      "arr_akihabara": "00:42",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Ebisu",
+      "dep": "00:15",
+      "line": "JR Yamanote inner loop (via Shinagawa/Tokyo), direct - LAST",
+      "arr_akihabara": "00:43",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Nishi-Azabu (area)",
+      "dep": "00:08",
+      "line": "Walk ~10 min to Nogizaka, Chiyoda line to Hibiya, walk to Yurakucho, JR Yamanote 00:36",
+      "arr_akihabara": "00:43",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Azabu-Juban",
+      "dep": "00:13",
+      "line": "Toei Oedo line to Daimon, walk to Hamamatsucho, JR Yamanote 00:32",
+      "arr_akihabara": "00:43",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    }
+  ],
+  "first_trains": [
+    {
+      "from": "Roppongi",
+      "dep": "05:08",
+      "line": "Tokyo Metro Hibiya line direct, arr Akihabara 05:32 (Sat 10.10)",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Ginza",
+      "dep": "05:04",
+      "line": "Tokyo Metro Hibiya line direct, arr Akihabara 05:17 (Sat 10.10)",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Shibuya",
+      "dep": "04:37",
+      "line": "JR Yamanote outer loop via Shinjuku/Ueno, arr Akihabara 05:13 (Sat 10.10); inner loop 04:49 arr 05:19",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Shinjuku",
+      "dep": "04:31",
+      "line": "JR Chuo-Sobu local (Chiba bound) direct, arr Akihabara 04:49 (Sat 10.10)",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    },
+    {
+      "from": "Ebisu",
+      "dep": "04:34",
+      "line": "JR Yamanote outer loop, arr Akihabara 05:13; inner loop 04:52 arr 05:19 (Sat 10.10)",
+      "verified": true,
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    }
+  ],
+  "taxi": {
+    "rules": "Tokyo 23 wards (fare revision ~20 Apr 2026, +10%): ¥500 for first 1.0 km, then ¥100 per 232 m; time charge ~¥100 per ~1.5 min when below 10 km/h; late-night surcharge +20% from 22:00 to 05:00; expressway tolls extra. Older 1.096 km / 255 m figures are outdated.",
+    "estimates": [
+      {
+        "from": "Roppongi",
+        "km": 8.5,
+        "yen_night": "¥4,500-5,500 (estimate)",
+        "minutes": 20
+      },
+      {
+        "from": "Ginza",
+        "km": 4.5,
+        "yen_night": "¥2,500-3,200 (estimate)",
+        "minutes": 12
+      },
+      {
+        "from": "Shibuya",
+        "km": 11,
+        "yen_night": "¥6,000-7,500 (estimate)",
+        "minutes": 28
+      },
+      {
+        "from": "Shinjuku",
+        "km": 9,
+        "yen_night": "¥5,000-6,000 (estimate)",
+        "minutes": 22
+      },
+      {
+        "from": "Ebisu",
+        "km": 11,
+        "yen_night": "¥6,000-7,500 (estimate)",
+        "minutes": 28
+      }
+    ],
+    "estimates_note": "ESTIMATES: road km approximate, fares computed from the 2026 tariff + time charge + 20% night surcharge, no tolls. Fri late night demand is high; app prices may show a fixed fare or surge.",
+    "apps": "GO (largest fleet in Tokyo, works with foreign cards, English UI), Uber (dispatches licensed Tokyo taxis; prices can be higher), S.RIDE (Sony/Tokyo taxi groups). Street hail works anywhere: red 空車 sign = free. Roppongi crossing and Tokyo Midtown/Roppongi Hills taxi stands are the easiest pickup points late night.",
+    "source": "Tokyo Hire-Taxi Association https://taxi-tokyo.or.jp/english/call/pricelist.html ; nippon.com/Jiji 2026-03-17 https://www.nippon.com/en/news/yjj2026031700905 ; checked 2026-10-09"
+  },
+  "walks": [
+    {
+      "from": "Roppongi crossing",
+      "to": "Nishi-Azabu crossing",
+      "minutes": 11,
+      "note": "~900 m along Roppongi-dori, approx"
+    },
+    {
+      "from": "Roppongi crossing",
+      "to": "Azabu-Juban (station / shopping street)",
+      "minutes": 13,
+      "note": "~1 km downhill via Imoarai-zaka or past Roppongi Hills, approx"
+    },
+    {
+      "from": "Roppongi Hills",
+      "to": "Tokyo Midtown",
+      "minutes": 10,
+      "note": "~1 km via Roppongi crossing, approx"
+    },
+    {
+      "from": "Ginza 4-chome crossing",
+      "to": "Yurakucho station",
+      "minutes": 7,
+      "note": "~600 m, approx"
+    },
+    {
+      "from": "Hotel Mets Akihabara",
+      "to": "Hibiya line Akihabara platform",
+      "minutes": 5,
+      "note": "Hibiya line station is on the Showa-dori side, ~300 m from JR Electric Town exit, approx"
+    }
+  ],
+  "warnings": [
+    {
+      "text": "US State Department: exercise caution in nightlife districts, especially Roppongi, Kabuki-cho, Shibuya, Ikebukuro. Reported pattern: drink spiking, then large fraudulent credit-card charges, sometimes forced ATM withdrawals or violence. Do not follow street touts (catch / 客引き) into bars; do not accept drinks from strangers; watch your drink; carry one card and limited cash.",
+      "source": "travel.state.gov Japan country page https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html ; US Embassy Tokyo alerts 2009/2015 (via https://www.ttgasia.com/2015/06/10/us-cautions-its-travellers-on-visiting-tokyos-roppongi-kabuki-cho/)"
+    },
+    {
+      "text": "Clubs: legal drinking age 20; door ID check is standard. Bring ORIGINAL passport (photocopy and foreign driving licence often refused; residence card OK for residents). Some venues apply informal 23+/25+ or dress-code policies at the door.",
+      "source": "nightlifetokyo.com club etiquette guide (updated Apr 2026) https://nightlifetokyo.com/en/tokyo/guides/tokyo-club-etiquette-photo-faq"
+    },
+    {
+      "text": "Foreigners must carry passport (or residence card) at all times under Japanese law; police may ask for it in Roppongi.",
+      "source": "Immigration Control Act, general rule (not re-verified this session)"
+    },
+    {
+      "text": "Last direct Hibiya line from Roppongi to Akihabara tonight leaves 23:55. After ~00:15 everything requires transfers; after ~00:45 only taxi until first trains ~05:00.",
+      "source": "Yahoo!乗換案内 transit.yahoo.co.jp (JR timetable as of Oct 2026, private/metro as of Sep 2026), checked 2026-10-09 22:2x JST"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+ {"id":"A","short":"A · Relaxed Roppongi","title":"A. Relaxed first night - Roppongi","sub":"Grand Hyatt jazz + hidden rooftop. No clubbing commitment; all within ~8 min walk.","duration":"~2.5-3 h","budget":"~¥15,000-25,000 incl. taxi home (estimate: 3-4 drinks at ¥2,000-3,500 + Maduro music charge + taxi)",
+  "legs_def":[{"from":"hotel","to":"oak-door-bar-grand-hyatt","mode":"train"},{"from":"maduro-grand-hyatt","to":"roku-nana-roppongi","mode":"walk"},{"from":"roku-nana-roppongi","to":"hotel","mode":"taxi"}],
+  "steps":[
+   {"mode":"train","time":"23:00","title":"Hibiya line Akihabara → Roppongi","desc":"~5 min walk to the Hibiya line platform, then 23 min direct, ¥209 (IC card). Walk ~5 min through Roppongi Hills to the Grand Hyatt.","link":"https://www.google.com/maps/dir/?api=1&origin=JR+East+Hotel+Mets+Premier+Akihabara&destination=Grand+Hyatt+Tokyo&travelmode=transit","linkLabel":"Transit to Grand Hyatt ➜"},
+   {"n":1,"venue":"oak-door-bar-grand-hyatt","time":"23:30-00:15","desc":"Warm-up drink at the bar counter (6F). The counter is the most sociable spot. Closes ~00:30 (unverified)."},
+   {"n":2,"venue":"maduro-grand-hyatt","time":"00:15-01:15","desc":"Same hotel, 4F. Live jazz lounge, smart casual. Music charge ~¥1,650 at the counter / ¥2,750 at a table (Hyatt page via search snippet). Open until ~01:30 (sources differ)."},
+   {"mode":"walk","time":"01:15","title":"Walk ~8 min (620 m) to Roku Nana","desc":"Through the Roppongi 7-chome back streets. Ignore any street touts."},
+   {"n":3,"venue":"roku-nana-roppongi","time":"01:20-02:00","desc":"Hidden rooftop cocktail bar, 3F Verte Roppongi. Cocktails ¥1,700-2,100 (official menu). Open until 02:00, last orders likely earlier."},
+   {"mode":"taxi","time":"02:00","title":"Taxi back ~20 min","desc":"~¥4,500-5,500 with the late-night surcharge (estimate). Use the GO / Uber app. Want the train instead? The last direct Hibiya line leaves Roppongi at 23:55, so you would have to skip stops 2-3.","link":"https://www.google.com/maps/dir/?api=1&destination=JR+East+Hotel+Mets+Premier+Akihabara&travelmode=driving","linkLabel":"Taxi route to hotel ➜"}
+  ]},
+ {"id":"B","short":"B · Upscale social","title":"B. Upscale social night - Shibuya / Aoyama","sub":"A world-class cocktail bar with no cover, then a rooftop club lounge where people mingle.","duration":"~3-4 h","budget":"~¥18,000-35,000 incl. taxi (estimate; CÉ LA VI entry not published)",
+  "legs_def":[{"from":"hotel","to":"the-sg-club","mode":"train"},{"from":"the-sg-club","to":"ce-la-vi-tokyo","mode":"walk"},{"from":"ce-la-vi-tokyo","to":"hotel","mode":"taxi"}],
+  "steps":[
+   {"mode":"train","time":"23:00","title":"JR Yamanote Akihabara → Shibuya","desc":"~30 min, ¥253. Or take a taxi (~25 min, ~¥6-7k) if you are running late.","link":"https://www.google.com/maps/dir/?api=1&origin=JR+East+Hotel+Mets+Premier+Akihabara&destination=The+SG+Club+Shibuya&travelmode=transit","linkLabel":"Transit to The SG Club ➜"},
+   {"n":1,"venue":"the-sg-club","time":"23:40-01:00","desc":"Ground floor 'Guzzle' bar: walk in, no cover, lively and easy to start a conversation. The basement 'Sip' is quieter and has a service charge."},
+   {"mode":"walk","time":"01:00","title":"Walk ~12 min (930 m) to Tokyu Plaza Shibuya","desc":"Take the lift to 17-18F. Bring your ORIGINAL passport: ID check, 20+."},
+   {"n":2,"venue":"ce-la-vi-tokyo","time":"01:10-03:00","desc":"The Club Lounge runs 22:00-04:30 on Fridays (official site). The Skybar's last entry is 23:00, so only the club side is open at this hour. The entry fee is not published."},
+   {"mode":"taxi","time":"03:00","title":"Taxi back ~28 min","desc":"~¥6,000-7,500 night fare (estimate). Alternative first stop: Two Rooms in Aoyama (30s-40s expat crowd, until 02:00), 5 min by taxi from Shibuya.","link":"https://www.google.com/maps/dir/?api=1&destination=JR+East+Hotel+Mets+Premier+Akihabara&travelmode=driving","linkLabel":"Taxi route to hotel ➜"}
+  ]},
+ {"id":"C","short":"C · Full Friday","title":"C. Full Friday nightlife - Toranomon → Ginza","sub":"A design-led hotel lounge, then a big club until close, and the first train home. Closest to the hotel of the three, so the ride back is cheap.","duration":"~5-6 h (until 04:30-05:15)","budget":"~¥25,000-50,000 (estimate; Zouk ticket via its site, price not checked)",
+  "legs_def":[{"from":"hotel","to":"gold-bar-edition-toranomon","mode":"train"},{"from":"gold-bar-edition-toranomon","to":"zouk-tokyo","mode":"taxi"},{"from":"zouk-tokyo","to":"hotel","mode":"train"}],
+  "steps":[
+   {"mode":"train","time":"23:00","title":"Hibiya line Akihabara → Toranomon Hills","desc":"18 min direct, ¥178. The EDITION is in the Tokyo World Gate / Toranomon area, a short walk away.","link":"https://www.google.com/maps/dir/?api=1&origin=JR+East+Hotel+Mets+Premier+Akihabara&destination=Gold+Bar+at+EDITION+Toranomon&travelmode=transit","linkLabel":"Transit to Gold Bar ➜"},
+   {"n":1,"venue":"gold-bar-edition-toranomon","time":"23:25-00:45","desc":"A glamorous gold-lined lounge on 1F of The Tokyo EDITION Toranomon. Listed until 02:00 (unverified). Weekend DJs per its 2022 launch info."},
+   {"mode":"taxi","time":"00:45","title":"Taxi ~7 min to Ginza 7-chome","desc":"~1.5 km, roughly ¥1,500 (estimate), or a ~20 min walk."},
+   {"n":2,"venue":"zouk-tokyo","time":"01:00-04:30","desc":"Big club, open 22:00-04:30. Tonight's headliner is VAVO (official site). EDM/house; the crowd likely skews younger than you. Bring your original passport and dress smart (no shorts or sportswear)."},
+   {"mode":"train","time":"05:04","title":"First Hibiya line Ginza → Akihabara","desc":"05:04 → arr. 05:17 (Saturday timetable, Yahoo!乗換案内). Or a taxi now: ~¥2,500-3,200 (estimate). Roppongi variant instead: Maduro → 1 OAK (23:00-05:00, hip-hop, younger crowd), then the first train from Roppongi at 05:08.","link":"https://www.google.com/maps/dir/?api=1&origin=Ginza+Station&destination=JR+East+Hotel+Mets+Premier+Akihabara&travelmode=transit","linkLabel":"Train back to hotel ➜"}
+  ]}
+]

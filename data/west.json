@@ -1,0 +1,521 @@
+[
+ {
+  "id": "ce-la-vi-tokyo",
+  "name_en": "CÉ LA VI Tokyo (Club Lounge + Skybar)",
+  "name_ja": "セラヴィ東京",
+  "area": "Shibuya",
+  "category": "rooftop",
+  "tags": [
+   "view",
+   "dj",
+   "club-lounge",
+   "rooftop"
+  ],
+  "address_en": "Tokyu Plaza Shibuya 17F-18F, 1-2-3 Dogenzaka, Shibuya-ku",
+  "address_ja": "東京都渋谷区道玄坂1-2-3 東急プラザ渋谷 17・18F",
+  "lat": 35.65763,
+  "lng": 139.69997,
+  "coord_source": "Nominatim/OSM: 東急プラザ渋谷 building",
+  "website": "https://jp.celavi.com/",
+  "instagram": "@celavitokyo",
+  "gmaps_query": "CÉ LA VI Tokyo Tokyu Plaza Shibuya",
+  "hours_friday": "22:00-04:30",
+  "hours_verified": true,
+  "last_entry": "Skybar/restaurant: last entry 23:00 (closes 24:00); Club Lounge open 22:00-04:30",
+  "entry_fee": "unverified (club lounge may charge entry on event nights)",
+  "drink_prices": "unverified",
+  "min_spend": "unverified (table bottle minimums typical)",
+  "cover_charge": "unverified",
+  "price_level": 4,
+  "dress_code": "smart casual (impression; ID check required, 20+)",
+  "music": "DJ - commercial house / open format (impression)",
+  "age_crowd": "impression: late 20s-40s, international + Japanese",
+  "atmosphere": "Rooftop skybar over Shibuya crossing area with a separate night club lounge on the top floor.",
+  "lively": 4,
+  "luxury": 4,
+  "solo": 3,
+  "social": 4,
+  "reservation": "TableCheck (tablecheck.com/celavitokyo) for dinner/tables; club walk-in with ID",
+  "special": "One of the few true rooftop club-lounges in Tokyo, Singapore-born brand, open until 04:30 on Fridays.",
+  "why_you": "Best 'upscale club but not techno' option in Shibuya for tonight: arrive by 23:00 for the Skybar, then the Club Lounge runs to 04:30. Mixed international crowd, easy to talk at the bar.",
+  "caveats": "Skybar last entry 23:00 - from Akihabara (~30 min) you need to leave now. Club pricing/bottle service can be steep; can feel touristy-glam.",
+  "status_2026": "Official site (jp.celavi.com, rebuilt 2026 Webflow assets) lists current hours; Metropolis listing labelled 'Opening Hours (2025)'.",
+  "photos": [
+   {
+    "file": "img/ce-la-vi-tokyo-1.jpg",
+    "credit": "Official site jp.celavi.com",
+    "src": "https://cdn.prod.website-files.com/69c17b5b527a07e5bff3b18b/69c3bf35339a381cb60b2f42_celavi-jp-home_cover.webp"
+   },
+   {
+    "file": "img/ce-la-vi-tokyo-2.jpg",
+    "credit": "Time Out Tokyo (og:image)",
+    "src": "https://media.timeout.com/images/105881940/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official site",
+    "url": "https://jp.celavi.com/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Official FAQ",
+    "url": "https://jp.celavi.com/faq",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Metropolis",
+    "url": "https://metropolisjapan.com/ce-la-vi-tokyo/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Friday hours (Club Lounge 22:00-04:30; Skybar until 24:00, last entry 23:00), 20+ ID check: official site via search summary.",
+  "estimates_notes": "Prices, dress code, music style, crowd age are impressions, not verified."
+ },
+ {
+  "id": "the-sg-club",
+  "name_en": "The SG Club",
+  "name_ja": "ザ エスジー クラブ",
+  "area": "Shibuya",
+  "category": "cocktail",
+  "tags": [
+   "world-50-best",
+   "speakeasy",
+   "walk-in",
+   "bartender-star"
+  ],
+  "address_en": "1-7-8 Jinnan, Shibuya-ku",
+  "address_ja": "東京都渋谷区神南1-7-8",
+  "lat": 35.66425,
+  "lng": 139.69924,
+  "coord_source": "Nominatim/OSM: 'The SG Club' POI",
+  "website": "https://www.instagram.com/the_sg_club/",
+  "instagram": "@the_sg_club",
+  "gmaps_query": "The SG Club Shibuya",
+  "hours_friday": "17:00-02:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "none",
+  "drink_prices": "unverified (expect ~¥2,000-3,000 per cocktail)",
+  "min_spend": "none",
+  "cover_charge": "Guzzle (ground floor): no cover; Sip (basement): service charge (PEN: 10%)",
+  "price_level": 3,
+  "dress_code": "none (smart casual fits)",
+  "music": "background music",
+  "age_crowd": "impression: late 20s-40s, heavy international bar-scene crowd",
+  "atmosphere": "Ground floor 'Guzzle' is a lively walk-in bar; basement 'Sip' is a darker speakeasy den with reservations.",
+  "lively": 4,
+  "luxury": 3,
+  "solo": 5,
+  "social": 4,
+  "reservation": "Guzzle walk-in; Sip reservation recommended (+81 50-3138-2618)",
+  "special": "Shingo Gokan's flagship, a fixture of Asia's/World's 50 Best Bars lists.",
+  "why_you": "Probably the single best solo-friendly, social cocktail bar in Shibuya: standing/counter, bartenders and international guests chat freely, no cover upstairs.",
+  "caveats": "Hours conflict across sources (17:00-01:00 / 17:00-03:00; Sip to 02:00 Fri). Busy on Fridays, may queue.",
+  "status_2026": "Time Out reports SG Club opened a new omakase cocktail bar (Aug 2025) - group active; 2026 hours not confirmed on official channel.",
+  "photos": [
+   {
+    "file": "img/the-sg-club-1.jpg",
+    "credit": "Time Out Tokyo (og:image)",
+    "src": "https://media.timeout.com/images/105300092/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Time Out Tokyo",
+    "url": "https://www.timeout.com/tokyo/nightlife/the-sg-club",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Table Journey",
+    "url": "https://tablejourney.com/japan/tokyo/nightlife/the-sg-club-shibuya/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "PEN",
+    "url": "https://pen-online.com/food/the-sg-club-powered-by-an-energetic-bartender-in-the-global-spotlight-has-opened-in-shibuya-sg-sip-or-guzzle-its-about-choices",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address and floor concept from Time Out; coordinates OSM POI.",
+  "estimates_notes": "Friday hours taken from Table Journey (17:00-01:00, Sip to 02:00 Fri/Sat) - conflicting sources, unverified. Prices and crowd are estimates."
+ },
+ {
+  "id": "two-rooms-aoyama",
+  "name_en": "Two Rooms Grill | Bar",
+  "name_ja": "トゥー ルームス グリル｜バー",
+  "area": "Aoyama",
+  "category": "lounge",
+  "tags": [
+   "terrace",
+   "view",
+   "dj",
+   "expat"
+  ],
+  "address_en": "AO Building 5F, 3-11-7 Kita-Aoyama, Minato-ku",
+  "address_ja": "東京都港区北青山3-11-7 Ao ビル5F",
+  "lat": 35.66371,
+  "lng": 139.71082,
+  "coord_source": "Nominatim/OSM: 'Two Rooms Bar & Grill' POI",
+  "website": "https://www.tworooms.jp/",
+  "instagram": "@tworoomstokyo",
+  "gmaps_query": "Two Rooms Grill Bar Aoyama",
+  "hours_friday": "11:30-02:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "none",
+  "drink_prices": "cocktails ~¥1,800-2,500 (Table Journey, unverified)",
+  "min_spend": "",
+  "cover_charge": "unverified",
+  "price_level": 3,
+  "dress_code": "smart casual after 20:00 (Table Journey)",
+  "music": "DJ sets later at night (Friday live jazz then DJ per one source)",
+  "age_crowd": "impression: 30s-40s, expat professionals + stylish Japanese",
+  "atmosphere": "Big bar room and 5th-floor terrace over Omotesando/Aoyama; grown-up after-work crowd that stays late on Fridays.",
+  "lively": 4,
+  "luxury": 4,
+  "solo": 4,
+  "social": 5,
+  "reservation": "Bar walk-in; terrace tables via official site",
+  "special": "Long-time expat-favourite terrace bar in Aoyama with skyline view.",
+  "why_you": "Classic place for a 40-something to meet people: big bar counter, English-friendly, international professional crowd, open to 02:00 Friday.",
+  "caveats": "Hours from 2 third-party listings only. Terrace can close in bad weather.",
+  "status_2026": "Haveagood-holiday article on 'Twilight High Tea' launch (April) - operating; year not confirmed in snippet.",
+  "photos": [
+   {
+    "file": "img/two-rooms-aoyama-1.jpg",
+    "credit": "The Rooftop Guide (og:image)",
+    "src": "https://www.therooftopguide.com/rooftop-bars-in-tokyo/Bilder/two-rooms-grill-and-bar-600-1.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official site",
+    "url": "https://www.tworooms.jp/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "The Rooftop Guide",
+    "url": "https://therooftopguide.com/rooftop-bars-in-tokyo/two-rooms-grill-and-bar.html",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Table Journey",
+    "url": "https://tablejourney.com/japan/tokyo/nightlife/two-rooms-grill-bar-aoyama/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address from Rooftop Guide, matches OSM POI.",
+  "estimates_notes": "Friday 11:30-02:00 agrees in 2 third-party listings but not checked on official site. Crowd, prices, dress code unverified."
+ },
+ {
+  "id": "bar-trench",
+  "name_en": "Bar Trench",
+  "name_ja": "バー トレンチ",
+  "area": "Ebisu",
+  "category": "cocktail",
+  "tags": [
+   "absinthe",
+   "speakeasy",
+   "world-50-best",
+   "intimate"
+  ],
+  "address_en": "1F, 1-5-8 Ebisu-Nishi, Shibuya-ku",
+  "address_ja": "東京都渋谷区恵比寿西1-5-8 1F",
+  "lat": 35.64842,
+  "lng": 139.70792,
+  "coord_source": "Nominatim/OSM: 'Bar TRENCH' POI",
+  "website": "https://www.small-axe.net/",
+  "instagram": "@bar_trench",
+  "gmaps_query": "Bar Trench Ebisu",
+  "hours_friday": "19:00-02:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "none",
+  "drink_prices": "unverified (~¥1,800-2,500)",
+  "min_spend": "",
+  "cover_charge": "unverified (small table charge typical)",
+  "price_level": 3,
+  "dress_code": "none",
+  "music": "low background",
+  "age_crowd": "impression: 30s-40s, international + Japanese",
+  "atmosphere": "Tiny, dim, antique-apothecary bar specialising in absinthe and herbal cocktails.",
+  "lively": 2,
+  "luxury": 3,
+  "solo": 5,
+  "social": 3,
+  "reservation": "No reservations (Time Out)",
+  "special": "Pioneer of Tokyo's new-wave cocktail scene; absinthe and botanical drinks.",
+  "why_you": "Excellent solo stop in Ebisu, counter conversation with neighbours, 3 min from Ebisu station; pair with Bar Triad / Ebisu Yokocho nearby.",
+  "caveats": "Very small - often full on Friday, wait outside. Hours differ by source (Time Out 18:00-02:00 daily).",
+  "status_2026": "No 2026-dated source found - operating status signal only.",
+  "photos": [
+   {
+    "file": "img/bar-trench-1.jpg",
+    "credit": "Time Out Tokyo (og:image)",
+    "src": "https://media.timeout.com/images/102592405/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Time Out Tokyo",
+    "url": "https://www.timeout.com/tokyo/bars-and-pubs/bar-trench",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Punch",
+    "url": "https://punchdrink.com/venues/bar-trench/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address consistent across Time Out/Punch; coordinates OSM POI.",
+  "estimates_notes": "Friday hours from Punch (Mon-Sat 19:00-02:00), unverified. Prices/crowd estimates."
+ },
+ {
+  "id": "new-york-bar-park-hyatt",
+  "name_en": "New York Bar, Park Hyatt Tokyo",
+  "name_ja": "ニューヨーク バー（パーク ハイアット 東京）",
+  "area": "Shinjuku",
+  "category": "hotel-bar",
+  "tags": [
+   "jazz",
+   "view",
+   "lost-in-translation",
+   "hotel"
+  ],
+  "address_en": "Park Hyatt Tokyo 52F, Shinjuku Park Tower, 3-7-1-2 Nishi-Shinjuku, Shinjuku-ku",
+  "address_ja": "東京都新宿区西新宿3-7-1-2 パーク ハイアット 東京 52F",
+  "lat": 35.68514,
+  "lng": 139.69096,
+  "coord_source": "Nominatim/OSM: パーク ハイアット 東京",
+  "website": "https://www.hyatt.com/park-hyatt/en-US/tyoph-park-hyatt-tokyo/dining",
+  "instagram": "@parkhyatttokyo",
+  "gmaps_query": "New York Bar Park Hyatt Tokyo",
+  "hours_friday": "",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "unverified (premium hotel pricing, expect ¥3,000+ per cocktail)",
+  "min_spend": "",
+  "cover_charge": "historically a music/cover charge after 19:00/20:00 - current amount unverified",
+  "price_level": 4,
+  "dress_code": "smart casual (historically no sportswear/shorts)",
+  "music": "live jazz nightly (pre-renovation; 2023 source)",
+  "age_crowd": "impression: 30s-60s, international business travellers",
+  "atmosphere": "52nd-floor jazz bar with floor-to-ceiling views over Shinjuku; original black-and-chrome interior restored.",
+  "lively": 3,
+  "luxury": 5,
+  "solo": 5,
+  "social": 3,
+  "reservation": "Hotel +81 3-5322-1234; walk-in usually possible at the bar",
+  "special": "Iconic Lost in Translation bar, reopened with the hotel after a 19-month restoration (hotel reopened 9 Dec 2025).",
+  "why_you": "The most classic upscale solo-traveller bar in Tokyo; sit at the counter, live jazz, talk to other travellers.",
+  "caveats": "Current hours, cover charge and last order NOT verified (official page blocked to fetch) - call before going. ~25-30 min from Akihabara (JR Chuo to Shinjuku + 12 min walk/taxi).",
+  "status_2026": "Hotel reopened 9 Dec 2025 (Hospitality Net / Travel Trade Journal); post-reopening review says New York Grill & Bar restored and operating.",
+  "photos": [
+   {
+    "file": "img/new-york-bar-park-hyatt-1.jpg",
+    "credit": "Time Out Tokyo (og:image) - New York Grill, adjacent 52F room, pre-renovation photo",
+    "src": "https://media.timeout.com/images/102922064/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hospitality Net reopening",
+    "url": "https://www.hospitalitynet.org/announcement/41013295.html",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Acquire mag reopening",
+    "url": "https://acquiremag.com/travel/the-legendary-park-hyatt-tokyo-reopens-after-an-almost-two-year-renovation",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Time Out JP",
+    "url": "https://www.timeout.jp/tokyo/ja/%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3/newyork-grill",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Reopening (9 Dec 2025) and 52F location verified via multiple articles.",
+  "estimates_notes": "Hours unknown - historically ~17:00-24:00 (Sun-Wed) / to 01:00 (Thu-Sat) with live jazz from ~20:00; NOT verified post-renovation. Prices/cover/crowd estimates."
+ },
+ {
+  "id": "bar-benfiddich",
+  "name_en": "Bar BenFiddich",
+  "name_ja": "ベンフィディック",
+  "area": "Shinjuku",
+  "category": "cocktail",
+  "tags": [
+   "farm-to-glass",
+   "herbal",
+   "world-50-best",
+   "no-menu"
+  ],
+  "address_en": "Yamatoya Bldg 9F, 1-13-7 Nishi-Shinjuku, Shinjuku-ku",
+  "address_ja": "東京都新宿区西新宿1-13-7 大和家ビル9F",
+  "lat": 35.68949,
+  "lng": 139.6966,
+  "coord_source": "Nominatim/OSM: 'ベンフィディック' POI",
+  "website": "",
+  "instagram": "@benfiddich",
+  "gmaps_query": "Bar BenFiddich Nishi-Shinjuku",
+  "hours_friday": "18:00-02:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "unverified (~¥2,000-3,000)",
+  "min_spend": "",
+  "cover_charge": "yes (amount unverified)",
+  "price_level": 3,
+  "dress_code": "none",
+  "music": "quiet",
+  "age_crowd": "impression: 30s-50s, cocktail enthusiasts, many foreigners",
+  "atmosphere": "Candle-lit apothecary-style counter; Hiroyasu Kayama grinds home-grown herbs and spices, no menu - you describe what you like.",
+  "lively": 2,
+  "luxury": 4,
+  "solo": 5,
+  "social": 3,
+  "reservation": "Recommended on weekends (+81 3-6258-0309 per En Primeur Club)",
+  "special": "One of Asia's most famous craft-cocktail bars; theatrical, ingredient-driven drinks.",
+  "why_you": "A unique 'once in Tokyo' drink, perfect solo at the counter; 5 min from Shinjuku West exit, combine with Park Hyatt.",
+  "caveats": "Hours conflict (Time Out 18:00-01:00). Small, may be full on Friday; no menu means prices only at the end.",
+  "status_2026": "No 2026-dated source found - signal only.",
+  "photos": [
+   {
+    "file": "img/bar-benfiddich-1.jpg",
+    "credit": "Time Out Tokyo (og:image)",
+    "src": "https://media.timeout.com/images/102592431/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Time Out Tokyo",
+    "url": "https://www.timeout.com/tokyo/bars-and-pubs/bar-benfiddich",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Table Journey",
+    "url": "https://tablejourney.com/japan/tokyo/nightlife/bar-benfiddich-nishi-shinjuku/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address consistent across sources; coordinates OSM POI.",
+  "estimates_notes": "Friday hours from Table Journey (Mon-Sat 18:00-02:00), unverified. Prices/crowd estimates."
+ },
+ {
+  "id": "cocktail-works-jimbocho",
+  "name_en": "Cocktail Works Jimbocho",
+  "name_ja": "COCKTAIL WORKS 神保町",
+  "area": "Kanda",
+  "category": "cocktail",
+  "tags": [
+   "craft-cocktail",
+   "counter",
+   "late",
+   "near-hotel"
+  ],
+  "address_en": "Vingt-Cinq Bldg 1F, 3-7-13 Kanda-Ogawamachi, Chiyoda-ku",
+  "address_ja": "東京都千代田区神田小川町3-7-13 ヴァンサンクビル1F",
+  "lat": 35.6954,
+  "lng": 139.76346,
+  "coord_source": "Nominatim/OSM: Kanda-Ogawamachi district centroid (approx, building not matched)",
+  "website": "https://savorjapan.com/0010000013",
+  "instagram": "@cocktailworks",
+  "gmaps_query": "COCKTAIL WORKS 神保町 神田小川町3-7-13",
+  "hours_friday": "18:00-03:00",
+  "hours_verified": false,
+  "last_entry": "L.O. 02:00",
+  "entry_fee": "",
+  "drink_prices": "unverified",
+  "min_spend": "",
+  "cover_charge": "unverified",
+  "price_level": 2,
+  "dress_code": "none",
+  "music": "background",
+  "age_crowd": "impression: 30s-40s office workers + locals",
+  "atmosphere": "Modern craft-cocktail counter bar by the Orchard Knight group.",
+  "lively": 3,
+  "luxury": 3,
+  "solo": 5,
+  "social": 3,
+  "reservation": "Walk-in",
+  "special": "Serious cocktail bar open late, ~15 min walk / 5 min taxi from the hotel.",
+  "why_you": "Best realistic quality cocktail near Akihabara for a late Friday, low-key counter where locals chat.",
+  "caveats": "Savor Japan shows 18:00-03:00 (LO 02:00); another listing shows 17:30-02:30. Closed Sun/holidays. Not a 'scene' bar.",
+  "status_2026": "No 2026-dated source; directory listing only.",
+  "photos": [
+   {
+    "file": "img/cocktail-works-jimbocho-1.jpg",
+    "credit": "Savor Japan (og:image)",
+    "src": "https://rimage.hitosara.com/gg/image/0010000013/0010000013E7.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Savor Japan",
+    "url": "https://savorjapan.com/0010000013",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address from Savor Japan.",
+  "estimates_notes": "Coordinates are district-level approximation (~200 m). Hours conflicting. Instagram handle not verified."
+ },
+ {
+  "id": "orchard-night-kanda",
+  "name_en": "Orchard Night",
+  "name_ja": "オーチャード ナイト",
+  "area": "Kanda",
+  "category": "cocktail",
+  "tags": [
+   "fruit-cocktails",
+   "english-menu",
+   "late",
+   "near-hotel"
+  ],
+  "address_en": "Masukawa Bldg 1F, 2-6 Kanda-Awajicho, Chiyoda-ku",
+  "address_ja": "東京都千代田区神田淡路町2-6 益川ビル1F",
+  "lat": 35.69688,
+  "lng": 139.7674,
+  "coord_source": "Nominatim/OSM: Kanda-Awajicho district centroid (approx, building not matched)",
+  "website": "https://savorjapan.com/0006141150",
+  "instagram": "",
+  "gmaps_query": "Orchard Night 神田淡路町2-6",
+  "hours_friday": "17:30-02:30",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "average spend ~¥5,000 (Savor Japan)",
+  "min_spend": "",
+  "cover_charge": "unverified",
+  "price_level": 2,
+  "dress_code": "none",
+  "music": "background",
+  "age_crowd": "impression: 30s-40s",
+  "atmosphere": "Fresh-fruit cocktail bar with Western food and a large wine list; English menu and English-speaking staff.",
+  "lively": 3,
+  "luxury": 3,
+  "solo": 4,
+  "social": 3,
+  "reservation": "Walk-in",
+  "special": "Closest proper cocktail bar to the hotel (~10 min walk across Manseibashi), open to 02:30.",
+  "why_you": "Easy nightcap close to the hotel, English-friendly, good for a relaxed last drink after Shibuya/Shinjuku.",
+  "caveats": "Hours from directory; Saturday shorter. Closed Sun/holidays. Quiet neighbourhood bar, not for meeting a crowd.",
+  "status_2026": "No 2026-dated source; directory listing only.",
+  "photos": [
+   {
+    "file": "img/orchard-night-kanda-1.jpg",
+    "credit": "Savor Japan listing (og:image) - a dish served at the bar, not the room",
+    "src": "https://rimage.hitosara.com/gg/image/0006141150/0006141150F1.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Savor Japan",
+    "url": "https://savorjapan.com/0006141150",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address, English menu, avg ¥5,000 from Savor Japan.",
+  "estimates_notes": "Coordinates district-level approximation. Friday hours inferred (only Saturday listed as different)."
+ }
+]

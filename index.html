@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0b0d12">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Tokyo Friday Night</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="app.css?v=6">
+</head>
+<body>
+<header id="top">
+  <div class="brand">
+    <div class="t1">Tokyo · Friday night</div>
+    <div class="t2" id="clock">Fri 9 Oct 2026</div>
+  </div>
+  <button class="pill" id="lastTrainPill" aria-label="Last train info"></button>
+</header>
+
+<main>
+  <section id="view-map" class="view active">
+    <div id="map"></div>
+    <div id="routeBar" class="routebar hidden"></div>
+    <div id="peek" class="peek hidden"></div>
+  </section>
+
+  <section id="view-list" class="view">
+    <div class="filters" id="filters"></div>
+    <div class="count" id="count"></div>
+    <div id="cards" class="cards"></div>
+  </section>
+
+  <section id="view-routes" class="view">
+    <div class="pad" id="routes"></div>
+  </section>
+
+  <section id="view-info" class="view">
+    <div class="pad" id="info"></div>
+  </section>
+</main>
+
+<nav id="tabs">
+  <button data-v="map" class="on"><span>🗺</span>Map</button>
+  <button data-v="list"><span>☰</span>Venues</button>
+  <button data-v="routes"><span>➜</span>Routes</button>
+  <button data-v="info"><span>🚇</span>Trains &amp; areas</button>
+</nav>
+
+<div id="sheet" class="sheet hidden" role="dialog" aria-modal="true">
+  <div class="sheet-inner">
+    <button class="close" id="sheetClose" aria-label="Close">✕</button>
+    <div id="sheetBody"></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="data/venues.js?v=6"></script>
+<script src="app.js?v=6"></script>
+</body>
+</html>

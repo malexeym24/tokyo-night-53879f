@@ -1,0 +1,529 @@
+[
+ {
+  "id": "zouk-tokyo",
+  "name_en": "Zouk Tokyo",
+  "name_ja": "ズーク東京",
+  "area": "Ginza",
+  "category": "club",
+  "tags": [
+   "dj",
+   "house",
+   "edm",
+   "big-club",
+   "vip-tables"
+  ],
+  "address_en": "Granbell Square B2F/B3F, 7-2-18 Ginza, Chuo-ku, Tokyo 104-0061",
+  "address_ja": "東京都中央区銀座7-2-18 グランベルスクエア B2F/B3F",
+  "lat": 35.67075,
+  "lng": 139.75998,
+  "coord_source": "GSI (国土地理院) address search for 東京都中央区銀座七丁目2-18",
+  "website": "https://www.zoukgrouptky.com/en",
+  "instagram": "https://www.instagram.com/zouktokyo",
+  "gmaps_query": "Zouk Tokyo Granbell Square Ginza",
+  "hours_friday": "22:00-04:30",
+  "hours_verified": true,
+  "last_entry": "",
+  "entry_fee": "not published on official page; tickets via zoukgrouptky.onthelists.com",
+  "drink_prices": "",
+  "min_spend": "VIP tables available (price not checked)",
+  "cover_charge": "",
+  "price_level": 4,
+  "dress_code": "Smart casual to upscale; tank tops, shorts, athletic wear, flip-flops may be refused (per technoairlines listing)",
+  "music": "EDM / house / tech house; tonight Fri 9 Oct 2026: VAVO (official events page)",
+  "age_crowd": "20+ with original photo ID; crowd age not sourced - impression: 20s-30s, mixed international/Japanese",
+  "atmosphere": "1,000-capacity Singapore-brand superclub in Ginza basement, big LED/light rig, VIP tables",
+  "lively": 5,
+  "luxury": 4,
+  "solo": 3,
+  "social": 4,
+  "reservation": "Tickets / VIP tables via official site (onthelists)",
+  "special": "The only big international-brand club in Ginza (opened 6 Oct 2023); tonight's headliner VAVO, doors 22:00.",
+  "why_you": "If you want a real club with house/EDM and an international crowd without going to Roppongi, this is it, 10 min by taxi from Akihabara.",
+  "caveats": "Crowd likely skews younger than 28-45; EDM-heavy, not deep house; door policy and ticket price unknown; bring passport (photo ID).",
+  "status_2026": "Official site lists Fri 9 Oct 2026 event (VAVO); Clubbable lists events Jul-Oct 2026",
+  "photos": [
+   {
+    "file": "img/zouk-tokyo-1.jpg",
+    "credit": "technoairlines.com venue listing",
+    "src": "https://www.technoairlines.com/wp-content/uploads/2026/09/zouk-tokyo-tokyo-club-1024x682.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official site (hours, tonight's event, address)",
+    "url": "https://www.zoukgrouptky.com/en",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Technoairlines club page",
+    "url": "https://www.technoairlines.com/club/zouk-tokyo",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Clubbable",
+    "url": "https://www.clubbable.com/Tokyo/Zouk",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Hours Fri 22:00-04:30, address, tonight's event from official site fetched 2026-10-09. Opening date, capacity, dress code from technoairlines.",
+  "estimates_notes": "Crowd age, social/solo scores are impressions. Entry fee not found."
+ },
+ {
+  "id": "punch-room-edition-ginza",
+  "name_en": "Punch Room (The Tokyo EDITION, Ginza)",
+  "name_ja": "パンチルーム（東京エディション銀座）",
+  "area": "Ginza",
+  "category": "cocktail",
+  "tags": [
+   "hotel-bar",
+   "punch",
+   "speakeasy-feel",
+   "late"
+  ],
+  "address_en": "The Tokyo EDITION, Ginza, 2-8-13 Ginza, Chuo-ku, Tokyo 104-0061",
+  "address_ja": "東京都中央区銀座2-8-13 東京エディション銀座",
+  "lat": 35.67259,
+  "lng": 139.76747,
+  "coord_source": "GSI (国土地理院) address search for 東京都中央区銀座二丁目8-13",
+  "website": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/",
+  "instagram": "",
+  "gmaps_query": "Punch Room The Tokyo EDITION Ginza",
+  "hours_friday": "18:00-02:00",
+  "hours_verified": true,
+  "last_entry": "",
+  "entry_fee": "none known",
+  "drink_prices": "not checked",
+  "min_spend": "",
+  "cover_charge": "not checked",
+  "price_level": 4,
+  "dress_code": "not stated - impression: smart casual",
+  "music": "not stated",
+  "age_crowd": "impression: 30s-40s, hotel guests + local professionals",
+  "atmosphere": "Clubby wood-panelled lounge with sofas and a chandelier (official photo); EDITION's punch-focused cocktail bar concept",
+  "lively": 3,
+  "luxury": 5,
+  "solo": 4,
+  "social": 3,
+  "reservation": "Reservations via hotel: +81 3-6228-7400 / diningreservation.ginza@editionhotels.com",
+  "special": "EDITION's 'globally celebrated' Punch Room concept in the newest EDITION (Ginza, opened 2024); open until 02:00 on Fridays.",
+  "why_you": "Stylish, late, and close to Akihabara; a hotel bar where a solo guest at the bar is normal and conversation with neighbours is easier than in tiny Ginza counter bars.",
+  "caveats": "Closed Sun-Mon. Prices not verified (EDITION hotel-bar level, expect ¥3,000+ per cocktail). The ROOF upstairs closes 23:00.",
+  "status_2026": "Official EDITION page live with current hours (fetched 2026-10-09)",
+  "photos": [
+   {
+    "file": "img/punch-room-edition-ginza-1.jpg",
+    "credit": "Official site (EDITION Hotels)",
+    "src": "https://www.editionhotels.com/wp-content/uploads/2024/02/4.-Ginza2_24_punch_TRUE_RGB_V4-scaled.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official site",
+    "url": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Hours (Tue-Thu 18:00-24:00, Fri-Sat 18:00-02:00, Sun-Mon closed), address, phone from official page.",
+  "estimates_notes": "Prices, dress code, crowd, scores are impressions."
+ },
+ {
+  "id": "the-roof-edition-ginza",
+  "name_en": "The ROOF (The Tokyo EDITION, Ginza)",
+  "name_ja": "ザ・ルーフ（東京エディション銀座）",
+  "area": "Ginza",
+  "category": "rooftop",
+  "tags": [
+   "rooftop",
+   "view",
+   "tokyo-tower",
+   "seasonal",
+   "garden"
+  ],
+  "address_en": "The Tokyo EDITION, Ginza, 2-8-13 Ginza, Chuo-ku, Tokyo 104-0061",
+  "address_ja": "東京都中央区銀座2-8-13 東京エディション銀座",
+  "lat": 35.67259,
+  "lng": 139.76747,
+  "coord_source": "GSI (国土地理院) address search for 東京都中央区銀座二丁目8-13",
+  "website": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/the-roof/",
+  "instagram": "",
+  "gmaps_query": "The Roof The Tokyo EDITION Ginza",
+  "hours_friday": "17:00-23:00",
+  "hours_verified": true,
+  "last_entry": "",
+  "entry_fee": "none known",
+  "drink_prices": "not checked",
+  "min_spend": "",
+  "cover_charge": "not checked",
+  "price_level": 4,
+  "dress_code": "not stated",
+  "music": "not stated",
+  "age_crowd": "impression: 30s-40s",
+  "atmosphere": "Seasonal open-air garden rooftop with view toward Tokyo Tower (official night photo)",
+  "lively": 2,
+  "luxury": 5,
+  "solo": 3,
+  "social": 3,
+  "reservation": "Hotel dining reservations +81 3-6228-7400",
+  "special": "Leafy rooftop over Ginza with a Tokyo Tower view.",
+  "why_you": "Beautiful early-evening spot; pair with Punch Room downstairs which stays open later.",
+  "caveats": "Closes 23:00 - practically too late for tonight after 22:20. Seasonal and weather-dependent (Metropolis / Pearl guides).",
+  "status_2026": "Official EDITION page live with hours (fetched 2026-10-09)",
+  "photos": [
+   {
+    "file": "img/the-roof-edition-ginza-1.jpg",
+    "credit": "Official site (EDITION Hotels)",
+    "src": "https://www.editionhotels.com/wp-content/uploads/2024/02/5.-Ginza2_08_roof-night_RGB_V3-scaled.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official site",
+    "url": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/the-roof/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Metropolis",
+    "url": "https://metropolisjapan.com/the-roof-and-lobby-bar/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Hours 'OPEN DAILY 5:00 PM - 11:00 PM' from official page.",
+  "estimates_notes": "Prices, crowd, scores are impressions."
+ },
+ {
+  "id": "gold-bar-edition-toranomon",
+  "name_en": "Gold Bar at EDITION (The Tokyo EDITION, Toranomon)",
+  "name_ja": "ゴールドバー アット エディション",
+  "area": "Toranomon",
+  "category": "lounge",
+  "tags": [
+   "hotel-bar",
+   "dj",
+   "weekend-dj",
+   "cocktail",
+   "late"
+  ],
+  "address_en": "1F The Tokyo EDITION, Toranomon, 4-1-1 Toranomon, Minato-ku, Tokyo",
+  "address_ja": "東京都港区虎ノ門4-1-1 東京エディション虎ノ門 1F",
+  "lat": 35.66471,
+  "lng": 139.74544,
+  "coord_source": "Nominatim (OSM) 'The Edition Toranomon Tokyo'",
+  "website": "https://www.editionhotels.com/tokyo-toranomon/restaurants-and-bars/",
+  "instagram": "",
+  "gmaps_query": "Gold Bar at EDITION Toranomon",
+  "hours_friday": "18:00-02:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "none known",
+  "drink_prices": "not checked",
+  "min_spend": "",
+  "cover_charge": "not checked",
+  "price_level": 4,
+  "dress_code": "not stated - impression: smart casual",
+  "music": "Launch announcement (2022): named DJs on Friday and Saturday nights; low-tempo jazz/soul/R&B midweek",
+  "age_crowd": "impression: 30s-40s, international + Japanese",
+  "atmosphere": "Black, white and gold lounge, 'exclusive yet cosy' (TimeOut 2022); ~83-87 seats",
+  "lively": 4,
+  "luxury": 5,
+  "solo": 4,
+  "social": 4,
+  "reservation": "TableCheck via hotel site; walk-ins possible if space",
+  "special": "Probably the best match in this zone for 'stylish lounge + DJ on Friday + late hours'.",
+  "why_you": "Grown-up, design-led crowd, DJ on weekends, open till 02:00 - the closest thing to a Roppongi-style social lounge without Roppongi.",
+  "caveats": "Friday 18:00-02:00 per search summary of official page (could not load it - 403); Time Out 2022 said 17:00-02:00. Current Friday DJ not confirmed. Closed Sun-Mon.",
+  "status_2026": "Gold Bar team did a guest takeover at Four Seasons Bengaluru on 21 Aug 2026 (Four Seasons press), so the bar is active in 2026",
+  "photos": [
+   {
+    "file": "img/gold-bar-edition-toranomon-1.jpg",
+    "credit": "TimeOut Tokyo",
+    "src": "https://media.timeout.com/images/105894219/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "TimeOut Tokyo (2022)",
+    "url": "https://timeout.com/tokyo/bars-and-pubs/gold-bar-at-edition",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Hotel Designs launch (DJ policy)",
+    "url": "https://hoteldesigns.net/industry-news/gold-bar-at-edition-launches-at-the-tokyo-edition-toranomon/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Official restaurants & bars",
+    "url": "https://www.editionhotels.com/tokyo-toranomon/restaurants-and-bars/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Four Seasons Bengaluru press 2026",
+    "url": "https://press.fourseasons.com/bengaluru/hotel-news/2026/gold-bar-takeover",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address and concept from TimeOut; DJ Fri/Sat from 2022 launch release.",
+  "estimates_notes": "Friday hours via search summary of official page (not loaded directly); prices, crowd, scores are impressions."
+ },
+ {
+  "id": "andaz-rooftop-bar",
+  "name_en": "Rooftop Bar, Andaz Tokyo",
+  "name_ja": "ルーフトップバー（アンダーズ東京）",
+  "area": "Toranomon",
+  "category": "rooftop",
+  "tags": [
+   "view",
+   "hotel-bar",
+   "52F",
+   "tokyo-bay"
+  ],
+  "address_en": "Toranomon Hills 52F, 1-23-4 Toranomon, Minato-ku, Tokyo",
+  "address_ja": "東京都港区虎ノ門1-23-4 虎ノ門ヒルズ森タワー 52F",
+  "lat": 35.66673,
+  "lng": 139.74938,
+  "coord_source": "Nominatim (OSM) 'Andaz Tokyo'",
+  "website": "https://www.hyatt.com/andaz/en-US/tyoaz-andaz-tokyo/dining",
+  "instagram": "",
+  "gmaps_query": "Rooftop Bar Andaz Tokyo Toranomon Hills",
+  "hours_friday": "17:00-01:00 (L.O. 00:30)",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "Reviewer: ~¥4,500 per cocktail incl. charge/service/tax (Wanderlog)",
+  "min_spend": "",
+  "cover_charge": "Seating charge after 20:00 Mar-Dec (TimeOut); ¥1,500 per Tablejourney (unverified)",
+  "price_level": 4,
+  "dress_code": "not stated",
+  "music": "not stated",
+  "age_crowd": "impression: 30s-50s, hotel guests and couples",
+  "atmosphere": "Semi-enclosed 52nd-floor bar with terrace and views to Tokyo Bay",
+  "lively": 2,
+  "luxury": 5,
+  "solo": 3,
+  "social": 2,
+  "reservation": "TableCheck; window seats recommended to reserve",
+  "special": "One of the highest bar views in central Tokyo.",
+  "why_you": "Spectacular quiet drink with a view; better for atmosphere than for meeting people.",
+  "caveats": "Sources conflict on Friday close (TimeOut 01:00 vs Tablejourney 24:00). Couple-heavy and calm; seating charge after 20:00.",
+  "status_2026": "TimeOut listing updated Apr 2025; no 2026-specific evidence checked",
+  "photos": [
+   {
+    "file": "img/andaz-rooftop-bar-1.jpg",
+    "credit": "TimeOut Tokyo",
+    "src": "https://media.timeout.com/images/103956696/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "TimeOut Tokyo (Apr 2025)",
+    "url": "https://www.timeout.com/tokyo/bars-and-pubs/rooftop-bar-andaz-tokyo",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Tablejourney",
+    "url": "https://tablejourney.com/japan/tokyo/nightlife/rooftop-bars/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Wanderlog reviews",
+    "url": "https://wanderlog.com/place/details/896630/rooftop-bar-andaz-tokyo-toranomon-hills",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address/hours from TimeOut (Apr 2025). Official Hyatt page blocked (403).",
+  "estimates_notes": "Hours not confirmed for 2026; crowd and scores are impressions."
+ },
+ {
+  "id": "bvlgari-bar-tokyo",
+  "name_en": "The Bvlgari Bar (Bulgari Hotel Tokyo)",
+  "name_ja": "ブルガリ バー（ブルガリ ホテル 東京）",
+  "area": "Marunouchi",
+  "category": "hotel-bar",
+  "tags": [
+   "view",
+   "terrace",
+   "45F",
+   "dj-fridays-past",
+   "luxury"
+  ],
+  "address_en": "Bulgari Hotel Tokyo 45F, Tokyo Midtown Yaesu, 2-2-1 Yaesu, Chuo-ku, Tokyo",
+  "address_ja": "東京都中央区八重洲2-2-1 東京ミッドタウン八重洲 45F ブルガリ ホテル 東京",
+  "lat": 35.67891,
+  "lng": 139.7691,
+  "coord_source": "Nominatim (OSM) 'Bulgari Hotel Tokyo'",
+  "website": "https://www.bulgarihotels.com/tokyo",
+  "instagram": "",
+  "gmaps_query": "The Bvlgari Bar Tokyo Midtown Yaesu",
+  "hours_friday": "12:00-24:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "Bulgari Cocktail ¥2,800 (TimeOut Jul 2025, before tax/service)",
+  "min_spend": "",
+  "cover_charge": "not checked",
+  "price_level": 4,
+  "dress_code": "not stated - impression: smart / elegant",
+  "music": "Hotel ran a weekly Friday DJ series (DJ Claudio Cuomo, 19:00-23:00, 45F terrace) - year unclear, likely 2024",
+  "age_crowd": "impression: 35-55, affluent, hotel guests + Tokyo business crowd",
+  "atmosphere": "Semi-alfresco 45F bar and terrace with westward city view, Italian-luxury design",
+  "lively": 2,
+  "luxury": 5,
+  "solo": 4,
+  "social": 2,
+  "reservation": "Recommended; via hotel",
+  "special": "Most luxurious bar in the zone; 12 min by taxi or 2 stops by JR from Akihabara to Tokyo Station.",
+  "why_you": "Top-tier setting for one excellent drink with a view; easy from your hotel.",
+  "caveats": "Quiet and polished, not a mingling bar. DJ series may be discontinued. Hours from TimeOut (Jul 2025), official page blocked.",
+  "status_2026": "No 2026 evidence checked directly (TimeOut Jul 2025)",
+  "photos": [
+   {
+    "file": "img/bvlgari-bar-tokyo-1.jpg",
+    "credit": "TimeOut Tokyo",
+    "src": "https://media.timeout.com/images/106298720/image.jpg"
+   },
+   {
+    "file": "img/bvlgari-bar-tokyo-2.jpg",
+    "credit": "TimeOut Tokyo",
+    "src": "https://media.timeout.com/images/106021689/1372/772/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "TimeOut Tokyo (Jul 2025)",
+    "url": "https://www.timeout.com/tokyo/bars-and-pubs/the-bulgari-bar",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Official 'DJ nights' article",
+    "url": "https://www.bulgarihotels.com/en_US/tokyo/whats-on/article/tokyo/at-the-hotel/Bvlgari-Bar-Tokyo-launches-new-Friday-night-series",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address, hours, cocktail price from TimeOut Jul 2025.",
+  "estimates_notes": "Friday DJ status for 2026 unconfirmed; crowd, scores are impressions."
+ },
+ {
+  "id": "peter-the-bar-peninsula",
+  "name_en": "Peter: The Bar (The Peninsula Tokyo)",
+  "name_ja": "ピーター ザ・バー（ザ・ペニンシュラ東京）",
+  "area": "Marunouchi",
+  "category": "hotel-bar",
+  "tags": [
+   "view",
+   "24F",
+   "hibiya",
+   "live-music-some-nights"
+  ],
+  "address_en": "The Peninsula Tokyo 24F, 1-8-1 Yurakucho, Chiyoda-ku, Tokyo",
+  "address_ja": "東京都千代田区有楽町1-8-1 ザ・ペニンシュラ東京 24F",
+  "lat": 35.67453,
+  "lng": 139.76072,
+  "coord_source": "Nominatim (OSM) 'The Peninsula Tokyo'",
+  "website": "https://www.peninsula.com/en/tokyo/hotel-fine-dining/peter-hotel-bar",
+  "instagram": "",
+  "gmaps_query": "Peter The Bar The Peninsula Tokyo",
+  "hours_friday": "17:00-24:00",
+  "hours_verified": false,
+  "last_entry": "L.O. ~23:30 (search snippet of official page)",
+  "entry_fee": "",
+  "drink_prices": "Non-alcoholic cocktails ¥2,050 (TimeOut)",
+  "min_spend": "",
+  "cover_charge": "not checked",
+  "price_level": 3,
+  "dress_code": "not stated",
+  "music": "Live music some evenings - sources conflict (Thu & Sat per Tablejourney; Wed-Sun per Tripexpert)",
+  "age_crowd": "impression: 35-55, business + hotel guests",
+  "atmosphere": "24F bar with purple-lit futuristic interior and views over Hibiya Park / Imperial Palace",
+  "lively": 2,
+  "luxury": 4,
+  "solo": 4,
+  "social": 2,
+  "reservation": "Not required for bar seats (impression)",
+  "special": "Glam 24F bar overlooking Hibiya; at the Ginza/Yurakucho border.",
+  "why_you": "Easy, comfortable solo drink with a view, 2 JR stops from Akihabara (Yurakucho).",
+  "caveats": "Closes at midnight Friday (TimeOut; official snippet says 18:00-24:00). Calm crowd, low mingling potential.",
+  "status_2026": "Tablejourney mentions renovation-related Sunday closure through mid-2026 - signal it is operating",
+  "photos": [
+   {
+    "file": "img/peter-the-bar-peninsula-1.jpg",
+    "credit": "TimeOut Tokyo",
+    "src": "https://media.timeout.com/images/105830052/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "TimeOut Tokyo",
+    "url": "https://www.timeout.com/tokyo/bars-and-pubs/peter-the-bar",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Official page (blocked 403; snippet)",
+    "url": "https://www.peninsula.com/en/tokyo/hotel-fine-dining/peter-hotel-bar",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Tablejourney",
+    "url": "https://tablejourney.com/japan/tokyo/bars/the-peninsula-bar/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address and hours from TimeOut listing (Fri 17:00-24:00).",
+  "estimates_notes": "Official page not loaded; live-music schedule unconfirmed; scores are impressions."
+ },
+ {
+  "id": "bar-high-five",
+  "name_en": "Bar High Five",
+  "name_ja": "バー ハイファイブ",
+  "area": "Ginza",
+  "category": "cocktail",
+  "tags": [
+   "classic-cocktails",
+   "world-50-best-history",
+   "counter",
+   "bespoke"
+  ],
+  "address_en": "Efflore Ginza 5 Bldg B1F, 5-4-15 Ginza, Chuo-ku, Tokyo",
+  "address_ja": "東京都中央区銀座5-4-15 エフローレギンザ5ビル B1F",
+  "lat": 35.67164,
+  "lng": 139.76292,
+  "coord_source": "GSI (国土地理院) address search for 東京都中央区銀座五丁目4-15",
+  "website": "https://barhighfive.com/",
+  "instagram": "",
+  "gmaps_query": "Bar High Five Ginza",
+  "hours_friday": "17:00-01:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "not checked",
+  "min_spend": "Minimum one drink per person (house policy on official site)",
+  "cover_charge": "not checked",
+  "price_level": 3,
+  "dress_code": "not stated",
+  "music": "none / quiet",
+  "age_crowd": "impression: 30s-50s, many international cocktail fans",
+  "atmosphere": "Small basement counter bar; owner Hidetsugu Ueno (ex-Star Bar) makes bespoke cocktails without a menu",
+  "lively": 1,
+  "luxury": 4,
+  "solo": 5,
+  "social": 2,
+  "reservation": "Walk-in; wait to be seated (house policy)",
+  "special": "Legendary Ginza cocktail bar (No.3 Asia's 50 Best 2016).",
+  "why_you": "Perfect solo cocktail pilgrimage; bartenders talk to solo guests at the counter.",
+  "caveats": "Strict house policy: no loud talking, no photos without asking, no phone calls; not a place to mingle. Owner travels for guest shifts (Macau 19-24 Oct 2026 per site). Hours from 2017 TimeOut JP article; closed Sun & holidays.",
+  "status_2026": "Official site has 2026 notices (Jun 2026 inventory closure 1 Jul; tour Oct 2026)",
+  "photos": [],
+  "sources": [
+   {
+    "label": "Official site",
+    "url": "https://barhighfive.com/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "TimeOut Tokyo JP (2017)",
+    "url": "https://www.timeout.jp/tokyo/ja/ナイトライフ/バー-ハイ-ファイブ",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Operating in 2026 and house policy from official site; address from TimeOut JP.",
+  "estimates_notes": "Hours from 2017 source (17:00-01:00, closed Sun/hols) - not verified for 2026. Official site images were only logo/policy card, so no photos."
+ }
+]

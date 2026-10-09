@@ -1,0 +1,509 @@
+[
+ {
+  "id": "maduro-grand-hyatt",
+  "name_en": "Maduro (Grand Hyatt Tokyo)",
+  "name_ja": "マデュロ（グランド ハイアット 東京）",
+  "area": "Roppongi",
+  "category": "hotel-bar",
+  "tags": [
+   "jazz",
+   "live-music",
+   "whisky",
+   "cigars",
+   "hotel"
+  ],
+  "address_en": "Grand Hyatt Tokyo 4F, 6-10-3 Roppongi, Minato-ku, Tokyo",
+  "address_ja": "東京都港区六本木6-10-3 グランド ハイアット 東京 4F",
+  "lat": 35.65985,
+  "lng": 139.72829,
+  "coord_source": "OSM Nominatim 'Grand Hyatt Tokyo' (hotel building)",
+  "website": "https://www.hyatt.com/en-US/hotel/japan/grand-hyatt-tokyo/tyogh/dining",
+  "instagram": "",
+  "gmaps_query": "Maduro Grand Hyatt Tokyo",
+  "hours_friday": "19:00-01:30",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "",
+  "min_spend": "",
+  "cover_charge": "Live-music/table charge after ~20:00: Hyatt page (via search snippet) JPY 2,750 table / 1,650 counter; Time Out 2015: JPY 2,000; Tablejourney: JPY 2,200",
+  "price_level": 4,
+  "dress_code": "Smart casual (Hyatt page, via search snippet)",
+  "music": "Live jazz nightly",
+  "age_crowd": "impression: 30s-60s, hotel guests, expats and business people",
+  "atmosphere": "Dark, lavish jazz lounge: leather sofas, box seats, small private rooms, 108 seats; smoking permitted at all seats per Hyatt",
+  "lively": 3,
+  "luxury": 5,
+  "solo": 4,
+  "social": 3,
+  "reservation": "Hyatt page says no reservations (except promo plans); walk in",
+  "special": "Classic Roppongi Hills hotel jazz lounge with nightly live band, deep whisky and cigar list.",
+  "why_you": "Upscale, grown-up, easy solo seat at the counter, music gives a natural conversation starter; 23 min direct on the Hibiya line from Akihabara.",
+  "caveats": "Smoking allowed at all seats (per Hyatt) - cigar smoke likely. Cover charge on top of hotel-level drink prices. Exact Friday closing differs by source (01:30 vs 02:00).",
+  "status_2026": "Listed on Grand Hyatt Tokyo official dining page (hyatt.com, seen via search 2026-10-09; direct fetch returned 403). No 2026-dated news found - treat as signal.",
+  "photos": [
+   {
+    "file": "img/maduro-grand-hyatt-1.jpg",
+    "credit": "Time Out Tokyo listing photo",
+    "src": "https://media.timeout.com/images/103898008/750/422/image.jpg"
+   },
+   {
+    "file": "img/maduro-grand-hyatt-2.jpg",
+    "credit": "Time Out Tokyo listing photo",
+    "src": "https://media.timeout.com/images/103898010/750/422/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Grand Hyatt Tokyo dining (official)",
+    "url": "https://www.hyatt.com/en-US/hotel/japan/grand-hyatt-tokyo/tyogh/dining",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Time Out Tokyo (2015)",
+    "url": "https://www.timeout.com/tokyo/bars-and-pubs/maduro",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Tablejourney",
+    "url": "https://tablejourney.com/japan/tokyo/nightlife/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Tabelog",
+    "url": "https://ssl.tabelog.com/en/tokyo/A1307/A130701/13010463",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address/floor, live jazz, no-reservation and smart-casual rule from Hyatt official page text (seen via search). Phone 03-4333-8783 per Tabelog.",
+  "estimates_notes": "Friday hours: Tablejourney 19:00-01:30, Time Out (2015) until 02:00 - not confirmed for 2026. Cover amount varies by source. Crowd/social scores are impressions."
+ },
+ {
+  "id": "oak-door-bar-grand-hyatt",
+  "name_en": "The Oak Door Bar (Grand Hyatt Tokyo)",
+  "name_ja": "オーク ドア バー（グランド ハイアット 東京）",
+  "area": "Roppongi",
+  "category": "hotel-bar",
+  "tags": [
+   "hotel",
+   "steakhouse-bar",
+   "cocktails",
+   "walk-in"
+  ],
+  "address_en": "Grand Hyatt Tokyo 6F, 6-10-3 Roppongi, Minato-ku, Tokyo",
+  "address_ja": "東京都港区六本木6-10-3 グランド ハイアット 東京 6F",
+  "lat": 35.65985,
+  "lng": 139.72829,
+  "coord_source": "OSM Nominatim 'Grand Hyatt Tokyo' (hotel building)",
+  "website": "https://www.hyatt.com/en-US/hotel/japan/grand-hyatt-tokyo/tyogh/dining",
+  "instagram": "",
+  "gmaps_query": "The Oak Door Grand Hyatt Tokyo",
+  "hours_friday": "11:30-00:30",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "",
+  "min_spend": "",
+  "cover_charge": "",
+  "price_level": 3,
+  "dress_code": "",
+  "music": "Background music",
+  "age_crowd": "impression: 30s-50s, international business travellers and expats",
+  "atmosphere": "Lively wood-panelled bar in front of the steakhouse; open bar counter with walk-in policy",
+  "lively": 3,
+  "luxury": 4,
+  "solo": 4,
+  "social": 4,
+  "reservation": "Bar area: no reservations (TableCheck)",
+  "special": "Well-known expat/business hangout bar at the Grand Hyatt; easy to combine with Maduro two floors down.",
+  "why_you": "Bar-counter crowd of international professionals your age - one of the easier upscale places in Roppongi to strike up conversation solo.",
+  "caveats": "Closes earlier than clubs: Hyatt lists Fri until 00:30, TableCheck says Fri until 00:00 with drinks L.O. 23:30. Go before ~23:30. Floor (6F) from memory of hotel layout - not re-verified this session.",
+  "status_2026": "Live TableCheck booking page (grand-hyatt-tokyo-oakdoor) and Hyatt official dining page seen via search 2026-10-09.",
+  "photos": [],
+  "sources": [
+   {
+    "label": "Grand Hyatt Tokyo dining (official)",
+    "url": "https://www.hyatt.com/en-US/hotel/japan/grand-hyatt-tokyo/tyogh/dining",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "TableCheck The Oak Door",
+    "url": "https://www.tablecheck.com/en/grand-hyatt-tokyo-oakdoor/reserve",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Hours: Hyatt official (search snippet) Mon-Thu & Sun 11:30-23:30, Fri-Sat 11:30-00:30. No under-20s after 22:00. Bar walk-in only per TableCheck. Phone 03-4333-8784.",
+  "estimates_notes": "Floor 6F, price level, crowd and social score are impressions/not verified. No photo obtained (hyatt.com blocks automated fetch)."
+ },
+ {
+  "id": "roku-nana-roppongi",
+  "name_en": "Roku Nana",
+  "name_ja": "六七 (ROKU NANA)",
+  "area": "Roppongi",
+  "category": "rooftop",
+  "tags": [
+   "rooftop",
+   "cocktails",
+   "speakeasy",
+   "cigars",
+   "hidden"
+  ],
+  "address_en": "3F Verte Roppongi, 7-16-11 Roppongi, Minato-ku, Tokyo 106-0032",
+  "address_ja": "東京都港区六本木7-16-11 ヴェルテ六本木 3F",
+  "lat": 35.66425,
+  "lng": 139.72793,
+  "coord_source": "OSM Nominatim - Roppongi 7-chome area centroid only (building not geocoded); ~100-200 m precision, use gmaps_query",
+  "website": "https://roku-nana.zetton.co.jp/english",
+  "instagram": "",
+  "gmaps_query": "六七 ROKU NANA 六本木7-16-11",
+  "hours_friday": "19:00-02:00",
+  "hours_verified": true,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "Cocktails JPY 1,700-2,100 (e.g. Roppongi Espresso Martini 2,100, Twisted Negroni 2,000); Moet glass 2,200; Hakushu 2,200 (official menu)",
+  "min_spend": "Group minimums only (15+ people)",
+  "cover_charge": "Seat charge mentioned in reviews (amount not on official site)",
+  "price_level": 2,
+  "dress_code": "Smart casual (Rooftop Guide, not official)",
+  "music": "Lounge / background",
+  "age_crowd": "impression: late 20s-40s, Japanese + expat",
+  "atmosphere": "Dim, futuristic lounge interior with counter and sofas, plus a small alfresco rooftop terrace looking at the Roppongi skyline",
+  "lively": 3,
+  "luxury": 4,
+  "solo": 4,
+  "social": 3,
+  "reservation": "Walk-in likely OK; reservation advisable for terrace (not verified)",
+  "special": "Hidden 3rd-floor rooftop cocktail bar on a Roppongi 7-chome back alley run by Zetton group; signature Japanese-twist cocktails.",
+  "why_you": "Stylish, not a tourist trap, reasonable cocktail prices for the area, good first stop before a club; 5 min walk from R3 and Grand Hyatt.",
+  "caveats": "Hard to find (apartment building, up stairs). Closed Sundays and national holidays (Friday is fine). Rooftop subject to weather.",
+  "status_2026": "Official site live (zetton.co.jp) but latest dated notice found is for 2024/25 year-end; no 2026-dated post confirmed - signal, call before going.",
+  "photos": [
+   {
+    "file": "img/roku-nana-roppongi-1.jpg",
+    "credit": "Official site roku-nana.zetton.co.jp",
+    "src": "https://roku-nana.zetton.co.jp/application/files/4717/2353/2690/rokunana_img_gallery_interior_01.jpg"
+   },
+   {
+    "file": "img/roku-nana-roppongi-2.jpg",
+    "credit": "Official site roku-nana.zetton.co.jp",
+    "src": "https://roku-nana.zetton.co.jp/application/files/1117/2353/2701/rokunana_img_scenes_01.jpg"
+   },
+   {
+    "file": "img/roku-nana-roppongi-3.jpg",
+    "credit": "Official site roku-nana.zetton.co.jp",
+    "src": "https://roku-nana.zetton.co.jp/application/files/8017/2353/2691/rokunana_img_gallery_interior_02.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official site",
+    "url": "https://roku-nana.zetton.co.jp/english",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "The Rooftop Guide",
+    "url": "https://www.therooftopguide.com/rooftop-bars-in-tokyo/roku-nana.html",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Wanderlog",
+    "url": "https://wanderlog.com/place/details/1072139",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address, hours 19:00-26:00, closed Sun/holidays, drink prices - official site fetched 2026-10-09.",
+  "estimates_notes": "Dress code from Rooftop Guide. Seat charge from reviews. Coordinates approximate (chome centroid). Crowd/social are impressions."
+ },
+ {
+  "id": "r3-club-lounge",
+  "name_en": "R3 Club Lounge",
+  "name_ja": "R3 クラブラウンジ",
+  "area": "Roppongi",
+  "category": "club",
+  "tags": [
+   "club",
+   "rnb",
+   "dj",
+   "vip-rooms",
+   "shisha",
+   "international"
+  ],
+  "address_en": "B1F Round Cross Roppongi Bldg, 7-14-23 Roppongi, Minato-ku, Tokyo 106-0032",
+  "address_ja": "東京都港区六本木7-14-23 ラウンドクロス六本木 B1F",
+  "lat": 35.66383,
+  "lng": 139.73087,
+  "coord_source": "OSM Nominatim '7-14-23 Roppongi' (house-number match, same block)",
+  "website": "https://r3clublounge.com",
+  "instagram": "https://www.instagram.com/r3clublounge/",
+  "gmaps_query": "R3 Club Lounge Roppongi",
+  "hours_friday": "19:00-22:30",
+  "hours_verified": true,
+  "last_entry": "",
+  "entry_fee": "Varies by event (e.g. Ladies JPY 1,000 + 2 drinks on R&B nights; Sunday shisha night M 2,000/1D) per Oct 2026 schedule",
+  "drink_prices": "Happy hour to 21:00 JPY 600 (Time Out 2022)",
+  "min_spend": "VIP packages JPY 50,000 / 80,000 (official, Oct 2025 menu)",
+  "cover_charge": "",
+  "price_level": 3,
+  "dress_code": "",
+  "music": "R&B, hip-hop remix, afro, all-mix party music (event-dependent)",
+  "age_crowd": "impression: mixed international, mid-20s to 40s",
+  "atmosphere": "Basement club-lounge with stage and four themed VIP rooms; restaurant earlier, club after 23:00",
+  "lively": 4,
+  "luxury": 3,
+  "solo": 3,
+  "social": 4,
+  "reservation": "Tables/VIP via website or 03-6804-5865",
+  "special": "International-crowd club lounge (sister of R1/R2) with R&B/afro nights; active 2026 calendar.",
+  "why_you": "Socially easy, foreigner-friendly crowd, not a tout bar. BUT tonight's slot is an early event only - see caveats.",
+  "caveats": "TONIGHT (Fri 9 Oct 2026) the official October PDF lists only 'Hanakin 19:00-22:30' - no late club night shown, so it may be over before you arrive. Sat 10 Oct: AfroNippon 23:00-05:00. Closed Mon-Tue. Music is R&B/hip-hop, not house.",
+  "status_2026": "Operating: official site posts October 2026 schedule PDF (uploaded 2026-09) and flyers dated 2026-10-01.",
+  "photos": [
+   {
+    "file": "img/r3-club-lounge-1.jpg",
+    "credit": "Time Out Tokyo listing photo (lighting rig only, not a full interior view)",
+    "src": "https://media.timeout.com/images/105942101/750/422/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official site",
+    "url": "https://r3clublounge.com",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Official October 2026 schedule PDF",
+    "url": "https://r3clublounge.com/wp-content/uploads/2026/09/r3-october.pdf",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Time Out Tokyo (2022)",
+    "url": "https://www.timeout.com/tokyo/clubs/r3-club-lounge",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Metropolis",
+    "url": "https://metropolisjapan.com/r1-r2-r3-roppongi/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Address, regular hours Wed-Sun 19:00-05:00, closed Mon-Tue, phone, Oct 2026 event list - official site + PDF fetched 2026-10-09.",
+  "estimates_notes": "Crowd age, lively/social/luxury scores are impressions. Happy-hour price from 2022 Time Out."
+ },
+ {
+  "id": "1oak-tokyo",
+  "name_en": "1 OAK Tokyo",
+  "name_ja": "1 OAK TOKYO",
+  "area": "Roppongi",
+  "category": "club",
+  "tags": [
+   "club",
+   "hip-hop",
+   "edm",
+   "bottle-service",
+   "vip"
+  ],
+  "address_en": "5-10-25 Roppongi, Minato-ku, Tokyo 106-0032 (per Discotech; other sources differ)",
+  "address_ja": "東京都港区六本木5-10-25",
+  "lat": 35.66012,
+  "lng": 139.73528,
+  "coord_source": "OSM Nominatim - Roppongi 5-chome centroid only; address itself disputed between sources - use gmaps_query",
+  "website": "",
+  "instagram": "",
+  "gmaps_query": "1 OAK TOKYO Roppongi",
+  "hours_friday": "23:00-05:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "Men JPY 2,000-3,500, women often free (magical-trip guide, may be outdated)",
+  "drink_prices": "",
+  "min_spend": "VIP tables from JPY 20,000 (guide, may be outdated)",
+  "cover_charge": "",
+  "price_level": 4,
+  "dress_code": "Strict (Discotech)",
+  "music": "Hip-hop, R&B, some house/EDM",
+  "age_crowd": "impression: mostly 20s-early 30s; guide reports ~7:3 male:female",
+  "atmosphere": "Big-room bottle-service club: main floor flanked by booth rows, private rooms, karaoke room",
+  "lively": 5,
+  "luxury": 4,
+  "solo": 2,
+  "social": 3,
+  "reservation": "Tables via Discotech / email",
+  "special": "Tokyo outpost of the NYC 1 OAK brand (since 2017), the most 'Vegas-style' upscale club in Roppongi.",
+  "why_you": "Only if you want a big-club night out; music skews hip-hop and crowd younger than your target, and solo men pay most and may queue.",
+  "caveats": "Hip-hop-heavy (not house). Male-skewed ratio per guide. Address inconsistent across sources (Discotech 5-10-25 Roppongi; Clubbable lists Azabu-Juban). Do not follow street touts claiming to take you there.",
+  "status_2026": "Discotech lists 1 OAK events from Fri 9 Oct through 5 Nov (dates match 2026 weekdays); magical-trip guide updated Jan 2026 lists it among top Roppongi clubs.",
+  "photos": [
+   {
+    "file": "img/1oak-tokyo-1.jpg",
+    "credit": "Discotech venue photo",
+    "src": "https://images.discotech.me/venue/478/e6837b52-4c52-4ded-8a4d-ba94861025b7.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Discotech",
+    "url": "https://app.discotech.me/articles/best-hip-hop-nightclubs-in-roppongi--tokyo",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Magical Trip Roppongi guide 2026",
+    "url": "https://www.magical-trip.com/media/6-must-do-things-in-roppongi-roppongi-complete-nightlife-guide-w-map-2/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Clubbable",
+    "url": "https://www.clubbable.com/hi-IN/Tokyo/1OAK",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Operating status supported by Discotech event calendar (Oct-Nov, 2026 weekdays). Strict door from Discotech.",
+  "estimates_notes": "Closing time unknown (events start 23:00, DJs ~00:00). Prices and gender ratio from a guide, may be outdated. Coordinates approximate."
+ },
+ {
+  "id": "ritz-carlton-the-bar",
+  "name_en": "The Bar, The Ritz-Carlton Tokyo (45F)",
+  "name_ja": "ザ・バー（ザ・リッツ・カールトン東京 45F）",
+  "area": "Roppongi",
+  "category": "hotel-bar",
+  "tags": [
+   "view",
+   "live-music",
+   "hotel",
+   "cocktails",
+   "luxury"
+  ],
+  "address_en": "45F The Ritz-Carlton Tokyo, Tokyo Midtown, 9-7-1 Akasaka, Minato-ku, Tokyo",
+  "address_ja": "東京都港区赤坂9-7-1 東京ミッドタウン ザ・リッツ・カールトン東京 45F",
+  "lat": 35.66633,
+  "lng": 139.73136,
+  "coord_source": "OSM Nominatim 'The Ritz-Carlton Tokyo'",
+  "website": "https://www.ritzcarlton.com/en/hotels/tyorz-the-ritz-carlton-tokyo/dining/",
+  "instagram": "",
+  "gmaps_query": "The Bar The Ritz-Carlton Tokyo 45F",
+  "hours_friday": "11:00-01:00",
+  "hours_verified": false,
+  "last_entry": "",
+  "entry_fee": "",
+  "drink_prices": "",
+  "min_spend": "",
+  "cover_charge": "JPY 2,600 + tax 20:00-23:30 (Time Out); Truly Tokyo JPY 2,700",
+  "price_level": 4,
+  "dress_code": "",
+  "music": "Live music in the evening (guides)",
+  "age_crowd": "impression: 30s-60s, hotel guests and well-off locals",
+  "atmosphere": "45th-floor bar with floor-to-ceiling night views over Tokyo, live music, signature cocktails",
+  "lively": 2,
+  "luxury": 5,
+  "solo": 4,
+  "social": 2,
+  "reservation": "Recommended for window seats (not verified)",
+  "special": "The highest-end hotel bar view in the Roppongi area (Tokyo Midtown), live music and showpiece cocktails.",
+  "why_you": "Best 'wow' drink with a view on this side of town; good calm start or end, but not a place to meet many people.",
+  "caveats": "Cover charge after 20:00; hotel prices. Quiet - low socialising potential. Hours from 2019 Time Out, not re-confirmed for 2026.",
+  "status_2026": "Spring 2026 cocktail promotion (1 Mar-30 Apr 2026) reported by haveagood-holiday - operating in 2026.",
+  "photos": [
+   {
+    "file": "img/ritz-carlton-the-bar-1.jpg",
+    "credit": "Time Out Tokyo listing photo",
+    "src": "https://media.timeout.com/images/105418492/750/422/image.jpg"
+   },
+   {
+    "file": "img/ritz-carlton-the-bar-2.jpg",
+    "credit": "Time Out Tokyo listing photo",
+    "src": "https://media.timeout.com/images/105418493/750/422/image.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Time Out Tokyo (2019)",
+    "url": "https://www.timeout.com/tokyo/bars-and-pubs/the-bar-2",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Truly Tokyo",
+    "url": "https://trulytokyo.com/the-ritz-carlton-tokyo-the-lobby-lounge-bar/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Spring 2026 menu article",
+    "url": "https://haveagood-holiday.com/id/articles/ritz-carlton-tokyo-spring-2026-menu",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Floor/address from Time Out. 2026 operation from spring-2026 promo article.",
+  "estimates_notes": "Friday hours (to 01:00) and cover from Time Out 2019 / Truly Tokyo - not confirmed on official site this session. Website URL is the Marriott dining path, not fetched."
+ },
+ {
+  "id": "janu-bar-azabudai",
+  "name_en": "Janu Bar (Janu Tokyo, Azabudai Hills)",
+  "name_ja": "ジャヌ バー（ジャヌ東京）",
+  "area": "Azabudai",
+  "category": "hotel-bar",
+  "tags": [
+   "dj",
+   "cocktails",
+   "hotel",
+   "design",
+   "walk-in"
+  ],
+  "address_en": "Janu Tokyo, 1-2-2 Azabudai, Minato-ku, Tokyo (Azabudai Hills)",
+  "address_ja": "東京都港区麻布台1-2-2 ジャヌ東京",
+  "lat": 35.66217,
+  "lng": 139.74032,
+  "coord_source": "OSM Nominatim 'Janu Tokyo' (hotel building)",
+  "website": "https://www.janu.com/janu-tokyo/janu-bar/",
+  "instagram": "",
+  "gmaps_query": "Janu Bar Janu Tokyo Azabudai",
+  "hours_friday": "17:00-24:00",
+  "hours_verified": true,
+  "last_entry": "Drinks L.O. 23:30, food L.O. 23:00",
+  "entry_fee": "",
+  "drink_prices": "",
+  "min_spend": "",
+  "cover_charge": "",
+  "price_level": 4,
+  "dress_code": "",
+  "music": "Curated DJ sets Fri-Sat 20:00-23:00 (official)",
+  "age_crowd": "impression: 30s-50s, design-conscious locals, expats, hotel guests",
+  "atmosphere": "Sleek, warm, design-led hotel bar of Aman's sister brand; cocktail program by Shuzo Nagumo themed on ten Tokyo districts",
+  "lively": 3,
+  "luxury": 5,
+  "solo": 4,
+  "social": 3,
+  "reservation": "Walk-ins welcome; no reservations Fri-Sat (TableCheck)",
+  "special": "Newest-generation luxury hotel bar in Azabudai Hills with weekend DJ sets and a Nagumo cocktail menu.",
+  "why_you": "Exactly the stylish, grown-up, international crowd you described; DJ on Fridays makes it livelier than a typical hotel bar.",
+  "caveats": "Tonight it is tight: DJ ends 23:00, last drink order 23:30, closes 24:00. From Akihabara by taxi ~15-20 min (estimate). Best for another evening arriving ~20:30.",
+  "status_2026": "Official page live with images uploaded Jan-Sep 2026 (cloudfront paths 2026/09).",
+  "photos": [
+   {
+    "file": "img/janu-bar-azabudai-1.jpg",
+    "credit": "Official site janu.com",
+    "src": "https://d26ityues3jcbs.cloudfront.net/wp-content/uploads/sites/2/2026/03/16113711/Janu-Tokyo-Japan-FB-Janu-Bar_48423_1854x1234.jpg"
+   },
+   {
+    "file": "img/janu-bar-azabudai-2.jpg",
+    "credit": "Official site janu.com",
+    "src": "https://d26ityues3jcbs.cloudfront.net/wp-content/uploads/sites/2/2026/09/03121646/20260623_Janu6023_Bar_1038x915-1024x865.jpg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Official Janu Bar page",
+    "url": "https://www.janu.com/janu-tokyo/janu-bar/",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "TableCheck",
+    "url": "https://www.tablecheck.com/en/janu-tokyo-lounge-bar/reserve",
+    "checked": "2026-10-09"
+   },
+   {
+    "label": "Metropolis",
+    "url": "https://metropolisjapan.com/janu-tokyo-dining/",
+    "checked": "2026-10-09"
+   }
+  ],
+  "verified_notes": "Hours, L.O., DJ Fri-Sat 20-23, walk-ins, phone +81 50 1809 5550 - official page fetched 2026-10-09. No Fri/Sat reservations - TableCheck.",
+  "estimates_notes": "Floor (5F per Metropolis) not on official page. Price level, crowd and scores are impressions."
+ }
+]
