@@ -1,0 +1,186 @@
+[
+ {
+  "id": "zouk-tokyo",
+  "name_en": "Zouk Tokyo",
+  "name_ja": "ズーク東京",
+  "category": "club",
+  "address_en": "Granbell Square B2F/B3F, 7-2-18 Ginza, Chuo-ku, Tokyo 104-0061",
+  "address_ja": "東京都中央区銀座7-2-18 グランベルスクエア B2F/B3F",
+  "lat": 35.67075,
+  "lng": 139.75998,
+  "gmaps_query": "Zouk Tokyo Granbell Square Ginza",
+  "instagram": "https://www.instagram.com/zouktokyo",
+  "instagram_verified": {
+   "verified": true,
+   "how": "Linked from official site zoukgrouptky.com/en (fetched 2026-10-10)"
+  },
+  "website": "https://www.zoukgrouptky.com/en",
+  "hours_saturday": "22:00-04:30 (official site)",
+  "last_entry": "not published",
+  "tonight_event": "Sat 10 Oct 2026: PARISEO, doors 22:00 (official events calendar). Genre of PARISEO not stated on page - not verified. Tomorrow Sun 11 Oct: Japan All Stars.",
+  "entry_fee": "Not published. onthelists.com root is an admin login; booking page for 10 Oct shows only VIP table inquiry (WhatsApp/LINE/email), no ticket prices.",
+  "drink_prices": "not published",
+  "dress_code": "Smart casual to upscale; tank tops, shorts, athletic wear, flip-flops may be refused (per technoairlines listing)",
+  "music": "EDM / house / tech house (big-room club; tonight's headliner style not verified)",
+  "crowd": "Impression only: 20s-30s, mixed Japanese/international; 20+ with original photo ID (carry passport)",
+  "fit_reason": "The only big international-brand club in Ginza, open latest (04:30), walkable inside Ginza 7-chome; the place with the most people on a Saturday after midnight.",
+  "caveats": "Likely younger than 27-35 target; loud big-room format rather than lounge; price unknown at door; Ginza 7-8 chome around it is hostess-club territory - ignore touts.",
+  "photo_file": "img/ginza-zouk-tokyo-1.jpg",
+  "photo_credit": "technoairlines.com venue listing (downloaded 2026-10-09)",
+  "sources": [
+   {
+    "label": "Official site - hours, events calendar, Instagram link",
+    "url": "https://www.zoukgrouptky.com/en",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "Official booking page for 2026-10-10 (VIP inquiry only)",
+    "url": "https://www.zoukgrouptky.com/en/book?event=af295ebc-ec85-4cde-846c-66288b3844a8&view=vip",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "Technoairlines club page (dress code)",
+    "url": "https://www.technoairlines.com/club/zouk-tokyo",
+    "checked": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "id": "gold-bar-edition-toranomon",
+  "name_en": "Gold Bar at EDITION (The Tokyo EDITION, Toranomon)",
+  "name_ja": "ゴールドバー アット エディション（東京エディション虎ノ門）",
+  "category": "lounge",
+  "address_en": "1F The Tokyo EDITION, Toranomon, 4-1-1 Toranomon, Minato-ku, Tokyo",
+  "address_ja": "東京都港区虎ノ門4-1-1 東京エディション虎ノ門 1F",
+  "lat": 35.66471,
+  "lng": 139.74544,
+  "gmaps_query": "Gold Bar at EDITION Toranomon",
+  "instagram": "https://www.instagram.com/toranomonedition/",
+  "instagram_verified": {
+   "verified": true,
+   "how": "Hotel account linked from official editionhotels.com Toranomon restaurants-and-bars page (2026-10-10). No separate Gold Bar handle found on official page - a dedicated bar handle is unverified."
+  },
+  "website": "https://www.goldbaratedition.com/en/",
+  "hours_saturday": "18:00-02:00 (official EDITION page, fetched 2026-10-10; closed Sun-Mon)",
+  "last_entry": "not published",
+  "tonight_event": "No event listing found for 10 Oct. Launch materials (2022) say named DJs Fri & Sat nights - current 2026 DJ schedule NOT verified (goldbaratedition.com returned 403).",
+  "entry_fee": "none known",
+  "drink_prices": "not checked",
+  "dress_code": "not stated - impression: smart casual",
+  "music": "Per 2022 launch: DJs Fri/Sat; low-tempo soul/R&B/jazz midweek. Saturday style tonight unknown.",
+  "crowd": "Impression: 30s-40s, international + Japanese, design/finance crowd",
+  "fit_reason": "Closest match to 'stylish lounge + DJ + till 02:00' in the zone; age profile fits 27-35+ better than Zouk.",
+  "caveats": "Toranomon, ~8-10 min taxi from Ginza. Hotel bar - conversation is easier at the bar counter than in sofa areas. Call +81 3 5422 1600 to confirm DJ tonight; TableCheck for seats.",
+  "photo_file": "img/ginza-gold-bar-edition-toranomon-1.jpg",
+  "photo_credit": "TimeOut Tokyo (downloaded 2026-10-09)",
+  "sources": [
+   {
+    "label": "Official EDITION Toranomon restaurants & bars (hours, IG, TableCheck)",
+    "url": "https://www.editionhotels.com/tokyo-toranomon/restaurants-and-bars/",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "Hotel Designs launch (DJ policy Fri/Sat)",
+    "url": "https://hoteldesigns.net/industry-news/gold-bar-at-edition-launches-at-the-tokyo-edition-toranomon/",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "TableCheck",
+    "url": "https://www.tablecheck.com/shops/editionhotels-tokyo-goldbar/reserve",
+    "checked": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "id": "punch-room-edition-ginza",
+  "name_en": "Punch Room (The Tokyo EDITION, Ginza)",
+  "name_ja": "パンチルーム（東京エディション銀座）",
+  "category": "hotel-bar",
+  "address_en": "The Tokyo EDITION, Ginza, 2-8-13 Ginza, Chuo-ku, Tokyo 104-0061",
+  "address_ja": "東京都中央区銀座2-8-13 東京エディション銀座",
+  "lat": 35.67259,
+  "lng": 139.76747,
+  "gmaps_query": "Punch Room The Tokyo EDITION Ginza",
+  "instagram": "https://www.instagram.com/editionginza",
+  "instagram_verified": {
+   "verified": true,
+   "how": "Hotel account linked from official Punch Room page on editionhotels.com (2026-10-10); no separate Punch Room handle"
+  },
+  "website": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/",
+  "hours_saturday": "18:00-02:00 (official page, fetched 2026-10-10; closed Sun-Mon)",
+  "last_entry": "not published",
+  "tonight_event": "None listed. Cathay Pacific review mentions live DJ performances; TimeOut listed a one-off Halloween DJ night with in-house DJs - regular Saturday DJ not verified.",
+  "entry_fee": "none known",
+  "drink_prices": "not published on official page",
+  "dress_code": "not stated - impression: smart casual",
+  "music": "Possibly DJ (per Cathay review), style not stated",
+  "crowd": "Impression: 30s-40s, hotel guests + local professionals",
+  "fit_reason": "Most stylish late room in Ginza proper (2-chome, ~10 min walk from Zouk); good warm-up 22:00-24:00 before Zouk.",
+  "caveats": "More of a cocktail lounge than a mingling bar; reserve via TableCheck or +81 3 6228 7400. The ROOF upstairs closes 23:00.",
+  "photo_file": "img/ginza-punch-room-edition-ginza-1.jpg",
+  "photo_credit": "Official site (EDITION Hotels)",
+  "sources": [
+   {
+    "label": "Official Punch Room page (hours, IG, TableCheck)",
+    "url": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "Cathay Pacific hotel review (DJ mention)",
+    "url": "https://www.cathaypacific.com/cx/en_GB/inspiration/holidays/tokyo-edition-ginza-hotel-review.html",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "TimeOut - La Drumatica Halloween (one-off DJ night)",
+    "url": "https://www.timeout.com/tokyo/music/la-drumatica-halloween-a-night-of-music-and-mixology",
+    "checked": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "id": "300bar-next",
+  "name_en": "Ginza 300 BAR NEXT (Hibiya / Yurakucho)",
+  "name_ja": "銀座300BAR NEXT",
+  "category": "lounge",
+  "address_en": "Murasaki Bldg B1F, 1-2-14 Yurakucho, Chiyoda-ku, Tokyo 100-0006 (Hibiya Stn exit A4, 4 min walk)",
+  "address_ja": "〒100-0006 東京都千代田区有楽町1-2-14 紫ビル B1",
+  "lat": 35.672352,
+  "lng": 139.759933,
+  "gmaps_query": "Ginza 300 BAR NEXT 有楽町1-2-14",
+  "instagram": "https://www.instagram.com/ginza300bar",
+  "instagram_verified": {
+   "verified": true,
+   "how": "Handle linked in official site 300bar.com HTML (fetched 2026-10-10); group account for all 3 branches"
+  },
+  "website": "https://www.300bar.com/",
+  "hours_saturday": "16:30-02:00 (Fri/Sat/eve of holiday, official site)",
+  "last_entry": "not published (third-party: food L.O. 01:00, drink L.O. 01:30 - Gurunavi, older listing)",
+  "tonight_event": "No event listing found for 10 Oct. Official site tags this branch 'Big Screen & DJ Sound'.",
+  "entry_fee": "No table charge; buy min. 3 tickets on entry, ¥300 each (¥330 incl. tax) = ¥990 minimum (official site)",
+  "drink_prices": "Most drinks/food = 1 ticket ¥330 (official site: 150+ cocktails); some items may cost more tickets - not checked",
+  "dress_code": "none stated - casual",
+  "music": "DJ sound system per official site; genre not stated",
+  "crowd": "Impression (reviews): mix of locals and foreigners, after-work crowd; capacity 120 standing",
+  "fit_reason": "Standing bar = easiest format in this area to start talking to strangers; open till 02:00, 10 min walk from Zouk. Sister branches: 5-chome (5-9-11 Ginza, 'cozy') and 8-chome (8-3-12 Ginza, 'DJ events', near Shimbashi), same hours.",
+  "caveats": "NOT fancy - casual, cheap, can be loud and crowded; not a house-music venue as such. DJ tonight not confirmed.",
+  "photo_file": "img/ginza-300bar-next-1.jpg",
+  "photo_credit": "Official site og:image (interior of NEXT with logo overlay)",
+  "sources": [
+   {
+    "label": "Official site (addresses, hours, ticket system, IG)",
+    "url": "https://www.300bar.com/",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "Gurunavi 300BAR NEXT",
+    "url": "https://gurunavi.com/en/e179707/rst/",
+    "checked": "2026-10-10"
+   },
+   {
+    "label": "Wanderlog (crowd: locals + foreigners, DJ)",
+    "url": "https://wanderlog.com/place/details/2000929/ginza-300-bar",
+    "checked": "2026-10-10"
+   }
+  ]
+ }
+]
