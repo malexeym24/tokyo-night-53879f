@@ -1,0 +1,104 @@
+[
+  {
+    "id": "v2-tokyo",
+    "name_en": "V2 TOKYO",
+    "name_ja": "V2 TOKYO（ブイツー トーキョー）",
+    "category": "nightclub",
+    "area": "Roppongi",
+    "address_en": "TOWER OF VABEL 1F/B1F, 7-13-7 Roppongi, Minato-ku, Tokyo 106-0032",
+    "address_ja": "〒106-0032 東京都港区六本木7-13-7 TOWER OF VABEL 1F / B1F",
+    "lat": null,
+    "lng": null,
+    "gmaps_query": "V2 TOKYO 六本木7-13-7",
+    "instagram": "https://www.instagram.com/v2tokyo",
+    "instagram_verified": true,
+    "website": "https://www.v2tokyo.com/",
+    "hours_saturday": "21:00-05:00 (official: OPEN DAILY 21:00-05:00)",
+    "entry_fee": "Weekend men: JPY 4,000 with 2 drink tickets, or JPY 10,000 with 10 tickets; women free (official site, read 2026-10-10). Halloween weekend 30-31 Oct only: men JPY 5,000. VIP early plan Fri/Sat JPY 55,000 for up to 4, 21:00-01:00.",
+    "dress_code": "Official: dress up; entry may be refused if attire does not fit the dress code (ドレスアップしてお越しください).",
+    "door_policy": "Photo ID required for everyone (passport for a foreigner). Official site states no rule against solo men or foreigners; a 2026 English-site option exists and international-meetup events are held there. Weekend queues reported in reviews.",
+    "music": "EDM / open-format club hits, guest DJs (DVBBS booked 3 Dec 2026). October 2026 = Halloween party month (2-31 Oct).",
+    "crowd": "Japanese reviews: grown-up suited crowd, people with money, occasional celebrities. Signal from small-sample reviews, not verified.",
+    "jp_review_quotes": [
+      "「スーツで来るイケイケな大人の比率が高い」(ranking.net)",
+      "「ある程度お金に余裕がある人向けのクラブ」(ranking.net, summarised)"
+    ],
+    "fit_reason": "The most 'adult money' mainstream club in Roppongi per Japanese reviews; dress-up policy; open until 05:00 tonight; card payment.",
+    "caveats": "October is Halloween month, so expect costumes and a younger crowd mix on weekends. A big-room club with VIP-table culture: on the floor, a solo man pays entry and stands. Crowd quotes come from a low-vote ranking site.",
+    "photo_file": "img/jpc-v2-tokyo-1.jpg",
+    "photo_credit": "V2 TOKYO official site (v2tokyo.com/media/royal_pic.jpg)",
+    "sources": [
+      "https://www.v2tokyo.com/",
+      "https://ranking.net/rankings/best-nightclubs-in-roppongi",
+      "https://ranking.net/items/366d72"
+    ]
+  },
+  {
+    "id": "the-tokyo-club",
+    "name_en": "THE TOKYO CLUB (opened as 'THE TOKYO')",
+    "name_ja": "THE TOKYO CLUB（ザ トウキョウ クラブ）",
+    "category": "luxury bar lounge with DJ bar floor",
+    "area": "Nishi-Azabu",
+    "address_en": "B1F, 4-1-1 Nishi-Azabu, Minato-ku, Tokyo 106-0031 (under Nishi-Azabu crossing)",
+    "address_ja": "〒106-0031 東京都港区西麻布4-1-1 B1",
+    "lat": null,
+    "lng": null,
+    "gmaps_query": "THE TOKYO CLUB 西麻布4-1-1",
+    "instagram": "https://www.instagram.com/thetokyo_club",
+    "instagram_verified": true,
+    "website": "https://thetokyo-club.com/",
+    "hours_saturday": "20:00-04:00 (L.O. 03:30), open daily, per official site 2026. Time Out JP lists 20:00-28:00.",
+    "entry_fee": "Not published (no cover charge found). Bar/food pricing not checked.",
+    "dress_code": "Not published. Luxury-lounge setting, so smart is the safe choice (my inference).",
+    "door_policy": "Not published. ECN Hospitality runs 'global guest service' (Time Out JP), so it is foreign-friendly in intent. Reservations via the official site. Walk-in not verified: call 03-6427-4276.",
+    "music": "DJ bar floor on a British 'Void' sound system (official site). Earlier press: German, Italian and French speakers by zone.",
+    "crowd": "Time Out JP: 「最先端の大人の遊び場」(cutting-edge adult playground). No Japanese user reviews of the crowd found in this pass.",
+    "jp_review_quotes": [
+      "「西麻布交差点の地下に、ラグジュアリーバーラウンジ」(Time Out Tokyo JP, 2025-03-31)",
+      "「最先端の大人の遊び場」(Time Out Tokyo JP)"
+    ],
+    "fit_reason": "Newest posh Nishi-Azabu late-night DJ lounge (opened March 2025): an adult bar-lounge format rather than a dance club, and it suits a 43-year-old better than a big-room club.",
+    "caveats": "New venue with little review history. Crowd, prices and walk-in policy are unverified, so call before going. Note the rename: 'THE TOKYO' (FASHIONSNAP, Jan 2025) is now 'THE TOKYO CLUB'. Five private rooms (4-30 people) suggest a group or VIP focus.",
+    "photo_file": "img/jpc-the-tokyo-club-1.jpg",
+    "photo_credit": "Time Out Tokyo JP listing image (media.timeout.com/images/106441442)",
+    "sources": [
+      "https://thetokyo-club.com/",
+      "https://www.timeout.jp/tokyo/ja/%E3%83%90%E3%83%BC/the-tokyo-bar",
+      "https://www.fashionsnap.com/article/2025-01-29/the-tokyo-open/"
+    ]
+  },
+  {
+    "id": "maharaja-roppongi",
+    "name_en": "MAHARAJA Roppongi",
+    "name_ja": "マハラジャ六本木",
+    "category": "club & disco",
+    "area": "Roppongi",
+    "address_en": "Rokumon Bldg 6F, 6-1-3 Roppongi, Minato-ku, Tokyo 106-0032",
+    "address_ja": "〒106-0032 東京都港区六本木6-1-3 六門ビル6F",
+    "lat": null,
+    "lng": null,
+    "gmaps_query": "マハラジャ六本木 六本木6-1-3",
+    "instagram": "https://www.instagram.com/maharaja_roppongi",
+    "instagram_verified": true,
+    "website": "https://maharaja-r.jp/",
+    "hours_saturday": "19:00-05:00. Tonight 10 Oct: 14:00-19:00 '錦糸町伝説', then 19:00 'GLOBAL MIX' (official schedule).",
+    "entry_fee": "Sat men JPY 3,500 with 1 drink (happy hour 19:00-21:00: JPY 2,000 with 1 drink); women JPY 2,500 (official /charge/).",
+    "dress_code": "Official: no sandals, running sneakers, track suits, sweats, tank tops, shorts, work clothes, dirty or otherwise rough clothing, or exposed tattoos. Final call is at staff discretion.",
+    "door_policy": "No published rule against solo men or foreigners. Standing capacity 250. Phone 03-6804-1798.",
+    "music": "Disco plus current club hits (CLUB&DISCO mix). Saturday = 'GLOBAL MIX'.",
+    "crowd": "Bubble-era MAHARAJA brand revived. Pitched in Japanese media as a place anyone can enjoy even without club experience, and as a stop after work. No hard crowd-age data, but it is the venue most oriented to 30s-50s Japanese.",
+    "jp_review_quotes": [
+      "「クラブやディスコに行ったことがなくても、誰もが安心して楽しめる」(icotto/smartlog intro, 2015, summarised by search)"
+    ],
+    "fit_reason": "The best age fit for a 43-year-old among Roppongi clubs: a disco heritage brand, an early 19:00 start, a low fixed cover and a published dress code.",
+    "caveats": "More nostalgic/fun than 'posh 港区女子'. The crowd-age claim is an inference from the format, not a sourced statistic. The Japanese intro quote is from 2015.",
+    "photo_file": "img/jpc-maharaja-roppongi-1.jpg",
+    "photo_credit": "MAHARAJA Roppongi official site cover image (maharaja-r.jp)",
+    "sources": [
+      "https://maharaja-r.jp/charge/",
+      "https://maharaja-r.jp/schedule2/",
+      "https://maharaja-r.jp/",
+      "https://r.gnavi.co.jp/gac6800/"
+    ]
+  }
+]

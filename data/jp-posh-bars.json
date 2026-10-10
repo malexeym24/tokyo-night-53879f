@@ -1,0 +1,98 @@
+[
+  {
+    "id": "jp-raise-ginza",
+    "name_en": "RAISE Ginza",
+    "name_ja": "レイズ 銀座",
+    "category": "nightclub (3 bars + VIP, DJ)",
+    "address_en": "GinzaNovo 6F, 5-2-1 Ginza, Chuo-ku, Tokyo",
+    "address_ja": "東京都中央区銀座5-2-1 GinzaNovo 6階",
+    "lat": null, "lng": null,
+    "gmaps_query": "RAISE GINZA 銀座5-2-1",
+    "instagram": "https://www.instagram.com/raisetokyo",
+    "instagram_verified": true,
+    "website": "https://raisetokyo.com",
+    "hours_saturday": "21:00-04:00 (official site admission table, fetched 2026-10-10 21:3x JST)",
+    "walk_in": "Yes - door admission sold on the night (official site lists door prices; VIP tables by reservation)",
+    "entry_fee": "Saturday: men 4,000 JPY / women 2,500 JPY, incl. 2 drinks (official site)",
+    "drink_prices": "unverified",
+    "dress_code": "unverified - not found on pages checked; assume smart (no sportswear/sandals)",
+    "music": "DJ club; Void Acoustics sound system (Time Out JP). Tonight's line-up not checked",
+    "crowd": "unverified from JP reviews within time box. Time Out JP describes it as a nightclub, not a bar",
+    "jp_review_quotes": [
+      {"quote": "抜群の開放感を生み出している", "source": "Time Out Tokyo JP", "url": "https://www.timeout.jp/tokyo/ja/ナイトライフ/raise"}
+    ],
+    "fit_reason": "Only verified spot in the priority area that is open after 01:00 tonight with a DJ. Same building as The Mint Ginza (Sukiyabashi crossing, 1 min from Ginza Stn)",
+    "caveats": "This is a club, not a lounge-bar. Crowd age and the share of tourists are NOT verified from Japanese reviews. Men pay more at the door. The site still lists past special-night prices (24 FRI, 31 FRI) next to the regular table - the regular SATURDAY row was used",
+    "photo_file": "img/jp-raise-ginza-1.jpg",
+    "photo_credit": "raisetokyo.com (official) - NOTE: this is the RAISE logo image, not a venue photo; no venue photo found on official site in time",
+    "sources": [
+      "https://raisetokyo.com",
+      "https://www.timeout.jp/tokyo/ja/ナイトライフ/raise"
+    ]
+  },
+  {
+    "id": "jp-st-louis-bar-kei",
+    "name_en": "ST LOUIS BAR by KEI",
+    "name_ja": "サンルイ バー バイ ケイ",
+    "category": "luxury cocktail bar with hidden rooftop terrace (Kei Kobayashi x Saint-Louis crystal)",
+    "address_en": "Toraya Ginza Bldg 12F, 7-8-17 Ginza, Chuo-ku (entrance on Suzuran-dori side)",
+    "address_ja": "東京都中央区銀座7-8-17 虎屋銀座ビル12F（エントランスはすずらん通り側）",
+    "lat": null, "lng": null,
+    "gmaps_query": "ST LOUIS BAR by KEI 銀座7-8-17",
+    "instagram": null,
+    "instagram_verified": false,
+    "website": "https://www.tablecheck.com/ja/shops/st-louis-bar-kei/reserve",
+    "hours_saturday": "Bar 17:30-23:30 'for the time being' (TableCheck); last reservation entry 22:30. Older listings (EPARK/OZmall) say to 26:00 - treat as outdated",
+    "walk_in": "unverified - TableCheck covers reservations only; call 03-6274-6612 before going",
+    "entry_fee": "No cover stated for counter/normal seats. Terrace semi-private 5,500 JPY / indoor private room 11,000 JPY per 2 h (TableCheck)",
+    "drink_prices": "unverified",
+    "dress_code": "Smart casual recommended (TableCheck)",
+    "music": "No DJ mentioned",
+    "crowd": "Posh, couples/date bar per Time Out JP; not a party crowd",
+    "jp_review_quotes": [
+      {"quote": "大切な誰かと深く語り合いたい夜にぴったりだ", "source": "Time Out Tokyo JP (rooftop bar guide)", "url": "https://www.timeout.jp/tokyo/ja/nightlife/rooftop-bar"}
+    ],
+    "fit_reason": "The most 'Ginza posh' rooftop option that is still open tonight; 12F terrace with Ginza night view. 20+ only",
+    "caveats": "Closes 23:30, so one drink only if he leaves now. Closed Sun/Mon. Quiet and date-oriented, no DJ. Saturday 14:00-17:30 is cafe time, not relevant",
+    "photo_file": "img/jp-st-louis-bar-kei-1.jpg",
+    "photo_credit": "Ikyu Restaurant listing photo (restaurant.ikyu.com/124836)",
+    "sources": [
+      "https://www.tablecheck.com/ja/shops/st-louis-bar-kei/reserve",
+      "https://restaurant.ikyu.com/124836/",
+      "https://epark.jp/shopinfo/ozr639971/",
+      "https://www.timeout.jp/tokyo/ja/nightlife/rooftop-bar"
+    ]
+  },
+  {
+    "id": "jp-the-mint-ginza",
+    "name_en": "The Mint Ginza",
+    "name_ja": "ザ ミント ギンザ",
+    "category": "rooftop cafe & bar (approx. 1,000 m2 garden, daily DJ)",
+    "address_en": "Rooftop (reception 11F), 5-2-1 Ginza, Chuo-ku (former Tokyu Plaza Ginza, same building as RAISE)",
+    "address_ja": "東京都中央区銀座5-2-1 屋上（受付11階）",
+    "lat": null, "lng": null,
+    "gmaps_query": "The Mint Ginza 銀座5-2-1",
+    "instagram": "https://www.instagram.com/themintginza",
+    "instagram_verified": true,
+    "website": "https://the-mint-ginza.com",
+    "hours_saturday": "11:00-22:30 (live table on official site). The old 'Sat 11:00-01:00' row is commented out in the site HTML - it is NOT current",
+    "walk_in": "Yes - The Garden is cash-on (pay per drink) per Time Out JP",
+    "entry_fee": "None stated",
+    "drink_prices": "unverified",
+    "dress_code": "none stated",
+    "music": "Official site: 'BAR TIME ... 毎日入れ替わるDJ' (different DJ daily); opening PR: disco / house / hip-hop",
+    "crowd": "Tabelog reviews (via search summary): grown-up atmosphere, pool, greenery, stylish sofas; crowd age not verified",
+    "jp_review_quotes": [
+      {"quote": "毎日入れ替わるDJが奏でる心地よい音楽", "source": "official site", "url": "https://the-mint-ginza.com"}
+    ],
+    "fit_reason": "The best-looking rooftop with a DJ in the priority area",
+    "caveats": "Closes 22:30 TONIGHT - at 21:30 that leaves under an hour. Only worth it as a quick first drink, if at all. Outdoor - weather dependent",
+    "photo_file": "img/jp-the-mint-ginza-1.jpg",
+    "photo_credit": "the-mint-ginza.com (official, daytime shot of the rooftop)",
+    "sources": [
+      "https://the-mint-ginza.com",
+      "https://www.timeout.jp/tokyo/ja/%E3%83%90%E3%83%BC/the-mint-ginza",
+      "https://www.ozmall.co.jp/ginza/tokyuplaza-ginza/article/36299/"
+    ]
+  }
+]
