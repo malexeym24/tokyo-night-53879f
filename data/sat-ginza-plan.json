@@ -2,12 +2,13 @@
  "checked": "10.10.2026 21:35 JST",
  "order": [],
  "steps": [
-  "<b>~21:45</b> Akihabara → Ginza: Hibiya line, платформа 1 (на 中目黒), 12 мин",
-  "<b>до 22:30 · The Mint</b> - руфтоп 1000 м² с DJ (закрывается 22:30!), в том же здании что RAISE, 1 мин от станции Ginza",
-  "<b>22:30-… · RAISE Ginza</b> - клуб, сб 21:00-04:00, мужчины ¥4 000 (2 напитка), офиц. сайт",
-  "<b>Альтернатива:</b> ST LOUIS BAR (12 эт., тайная терраса, до 23:30, позвонить 03-6274-6612) или Punch Room (до 02:00)",
-  "<b>Хочешь house и пафос:</b> такси → THE TOKYO CLUB (Nishi-Azabu, до 04:00) или Red Bar (Shibuya, deep house до 05:00)",
-  "<b>Домой:</b> последний прямой из Ginza 00:06, потом такси ~$16-20"
+  "<b>Сейчас</b> Akihabara → <b>станция Ginza</b>: Hibiya line, платформа 1 (на 中目黒), 12 мин, ¥178. <a href=\"https://www.google.com/maps/dir/?api=1&destination=Ginza%20Station%20Tokyo%20Metro%20Hibiya%20Line&travelmode=transit\" target=\"_blank\" rel=\"noopener\">📍 Маршрут до станции</a>",
+  "<b>Всё начинается от станции Ginza.</b> Здание GinzaNovo (5-2-1 Ginza, бывший Tokyu Plaza) - 1-2 мин пешком",
+  "<b>до 22:30 · The Mint</b> - руфтоп с DJ на крыше GinzaNovo (закрытие 22:30!) <a href=\"https://www.google.com/maps/search/?api=1&query=The%20Mint%20Ginza%20%E9%8A%80%E5%BA%A75-2-1\" target=\"_blank\" rel=\"noopener\">📍 The Mint</a>",
+  "<b>22:30+ · RAISE Ginza</b> - клуб, 6 этаж того же здания, до 04:00, мужчины ¥4 000 (2 напитка) <a href=\"https://www.google.com/maps/search/?api=1&query=RAISE%20GINZA%20%E9%8A%80%E5%BA%A75-2-1\" target=\"_blank\" rel=\"noopener\">📍 RAISE</a>",
+  "<b>Альтернатива в Гинзе:</b> ST LOUIS BAR (до 23:30, тел. 03-6274-6612) <a href=\"https://www.google.com/maps/search/?api=1&query=ST%20LOUIS%20BAR%20by%20KEI%20%E9%8A%80%E5%BA%A77-8-17\" target=\"_blank\" rel=\"noopener\">📍 ST LOUIS</a> · Punch Room (до 02:00) <a href=\"https://www.google.com/maps/search/?api=1&query=Punch%20Room%20The%20Tokyo%20EDITION%20Ginza\" target=\"_blank\" rel=\"noopener\">📍 Punch Room</a>",
+  "<b>House и пафос - такси 15-20 мин:</b> THE TOKYO CLUB (Nishi-Azabu, до 04:00) <a href=\"https://www.google.com/maps/search/?api=1&query=THE%20TOKYO%20CLUB%20%E8%A5%BF%E9%BA%BB%E5%B8%834-1-1\" target=\"_blank\" rel=\"noopener\">📍 THE TOKYO CLUB</a> · Red Bar (Shibuya, deep house до 05:00) <a href=\"https://www.google.com/maps/search/?api=1&query=Red%20Bar%204-5-9%20Shibuya%20Tokyo\" target=\"_blank\" rel=\"noopener\">📍 Red Bar</a>",
+  "<b>Домой:</b> последний прямой поезд из Ginza 00:06, потом такси ~$16-20 <a href=\"https://www.google.com/maps/dir/?api=1&destination=JR%20East%20Hotel%20Mets%20Premier%20Akihabara&travelmode=driving\" target=\"_blank\" rel=\"noopener\">📍 Такси в отель</a>"
  ],
  "trains": [
   [
