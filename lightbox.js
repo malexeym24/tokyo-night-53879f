@@ -8,14 +8,14 @@
   var css = '.lb{position:fixed;inset:0;z-index:2147483000;background:#0b0b0d;display:none;align-items:center;justify-content:center;flex-direction:column;-webkit-user-select:none;user-select:none;touch-action:pan-y}' +
     '.lb.on{display:flex}.lb img{max-width:96vw;max-height:82vh;object-fit:contain;border-radius:6px;box-shadow:0 4px 30px rgba(0,0,0,.5)}' +
     '.lb-c{color:#ddd;font:13px/1.4 -apple-system,BlinkMacSystemFont,sans-serif;max-width:92vw;text-align:center;margin-top:10px}' +
-    '.lb button{position:absolute;background:rgba(255,255,255,.14);color:#fff;border:0;border-radius:999px;width:48px;height:48px;font:28px/48px -apple-system,sans-serif;cursor:pointer;padding:0;z-index:2}' +
+    '.lb button{position:absolute;background:rgba(0,0,0,.55);color:#fff;border:1px solid rgba(255,255,255,.35);display:flex;align-items:center;justify-content:center;border-radius:999px;width:48px;height:48px;font:28px/48px -apple-system,sans-serif;cursor:pointer;padding:0;z-index:2}' +
     '.lb-x{top:calc(12px + env(safe-area-inset-top,0px));right:12px}.lb-p{left:10px;top:50%;margin-top:-24px}.lb-n{right:10px;top:50%;margin-top:-24px}' +
     '.lb-h{position:absolute;bottom:calc(10px + env(safe-area-inset-bottom,0px));color:#aaa;font:12px -apple-system,sans-serif}' +
     'figure img,.pics img,.grid img,.gal img{cursor:zoom-in}';
   var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
   var ov = document.createElement('div'); ov.className = 'lb'; ov.setAttribute('role', 'dialog');
-  ov.innerHTML = '<button class="lb-x" aria-label="Закрыть">×</button><button class="lb-p" aria-label="Назад">‹</button>' +
-    '<img alt=""><div class="lb-c"></div><button class="lb-n" aria-label="Вперёд">›</button>' +
+  ov.innerHTML = '<button class="lb-x" aria-label="Закрыть">×</button><button class="lb-p" aria-label="Назад"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M15 4 7 12l8 8"/></svg></button>' +
+    '<img alt=""><div class="lb-c"></div><button class="lb-n" aria-label="Вперёд"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4l8 8-8 8"/></svg></button>' +
     '<div class="lb-h">Esc, × или тап - закрыть · ← → листать</div>';
   document.body.appendChild(ov);
   var img = ov.querySelector('img'), cap = ov.querySelector('.lb-c'), prev = ov.querySelector('.lb-p'), next = ov.querySelector('.lb-n');
@@ -43,8 +43,8 @@
   }, true);
   ov.addEventListener('click', function (e) {
     if (moved) { moved = false; return; }
-    if (e.target === prev) { e.stopPropagation(); show(idx - 1); return; }
-    if (e.target === next) { e.stopPropagation(); show(idx + 1); return; }
+    if (prev.contains(e.target)) { e.stopPropagation(); show(idx - 1); return; }
+    if (next.contains(e.target)) { e.stopPropagation(); show(idx + 1); return; }
     close();
   });
   document.addEventListener('keydown', function (e) {
