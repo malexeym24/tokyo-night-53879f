@@ -5,7 +5,7 @@
    <script src="lightbox.js" defer></script> */
 (function () {
   if (window.__lbReady) return; window.__lbReady = true;
-  var css = '.lb{position:fixed;inset:0;z-index:2147483000;background:rgba(0,0,0,.92);display:none;align-items:center;justify-content:center;flex-direction:column;-webkit-user-select:none;user-select:none;touch-action:pan-y}' +
+  var css = '.lb{position:fixed;inset:0;z-index:2147483000;background:#0b0b0d;display:none;align-items:center;justify-content:center;flex-direction:column;-webkit-user-select:none;user-select:none;touch-action:pan-y}' +
     '.lb.on{display:flex}.lb img{max-width:96vw;max-height:82vh;object-fit:contain;border-radius:6px;box-shadow:0 4px 30px rgba(0,0,0,.5)}' +
     '.lb-c{color:#ddd;font:13px/1.4 -apple-system,BlinkMacSystemFont,sans-serif;max-width:92vw;text-align:center;margin-top:10px}' +
     '.lb button{position:absolute;background:rgba(255,255,255,.14);color:#fff;border:0;border-radius:999px;width:48px;height:48px;font:28px/48px -apple-system,sans-serif;cursor:pointer;padding:0}' +
